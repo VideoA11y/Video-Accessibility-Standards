@@ -1,0 +1,11 @@
+4.2.2 Text Input and Form Entry
+If a platform, app, or website includes a user interface that requires text input or form entry, accommodations must be made to prevent these tasks from becoming repetitive.
+
+4.2.2-A
+All 10-foot platforms, apps, and websites that offer manual keyboard entry via a physical remote for user interfaces like account authentication, search, etc. must allow keyboard entry from a mobile app.
+
+4.2.2-B
+When a platform, app, or website requires more complex form entry, like address or credit card input, the user flow must include options to copy or save form content to eliminate repetitive form interactions.
+
+4.2.2-C
+All platforms, apps, and websites that require form input must offer autocompletion controls.

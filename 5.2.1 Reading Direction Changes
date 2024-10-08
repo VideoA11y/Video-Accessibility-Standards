@@ -1,0 +1,8 @@
+5.2.1 Reading Direction Changes
+When a platform, app, or website supports languages of multiple reading directions, it must ensure that the directions of individual UI elements are properly displayed.
+
+5.2.1-A
+Text alignment, images of text, and meaningfully-ordered images must be changed to match the written direction. For example, in right-to-left language support, text alignment and images of text must be shown in right-left direction.
+
+5.2.1-B
+Images, numbers, logos, and universal symbols are not affected by changes in written direction.

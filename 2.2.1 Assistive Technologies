@@ -1,0 +1,20 @@
+2.2.1 Assistive Technologies
+All platforms, apps, and websites must provide screen reader or text-to-speech engine support to create a narrated representation of the interface and its interactions.
+
+2.2.1-A
+When providing support for screen readers or text-to-speech (TTS) technology, all platforms, apps, and websites must follow screen reader and TTS guidelines.
+
+2.2.1-B
+At minimum, these assistive technologies must include options for speed, voice, verbosity, and volume controls within the settings of a platform, app, or website.
+
+2.2.1-C
+Generally speaking, all modern systems that offer app or website capabilities have screen reader or text-to-speech support. If these technologies are missing from a system, each app or website must implement their own screen reader or text-to-speech engine to comply with these guidelines.
+
+2.2.1-D
+All platforms, apps, or websites that use images, logos, or other visual elements to convey meaning must provide context for each instance in an alternative format that is compatible with screen reader or text-to-speech technology. Images must not be used to present long strings of text; that content must use actual text in the interface.
+
+2.2.1-E
+For 10-foot platforms, apps, and websites that provide screen reader technology, focusable images (i.e tiles, poster art, or other visual objects) in swimlanes, search results, asset details pages, etc. must include additional context for screen readers.
+
+2.2.1-F
+For 10-foot platforms, apps, and websites that utilize text-to-speech technology, only images that are interactable/navigable may receive focus (i.e. tiles in a swimlane). These images must provide context for the text-to-speech engine to speak on focus. When images are not interactable/navigable (i.e. poster art on an asset details page), the interface must provide additional context for the text-to-speech engine to speak on focus of another element (i.e. the movie title related to the poster art).

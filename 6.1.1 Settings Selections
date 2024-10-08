@@ -1,0 +1,5 @@
+6.1.1 Settings Selections
+If a platform, app, or website allows the user to customize accessibility features in its settings, the user selections must remain active in all possible scenarios. 
+
+6.1.1-A
+User-selected customization settings must persist when a platform, app, or website is closed, put into sleep mode, powered off, or updated. This data may be saved within a user’s account.

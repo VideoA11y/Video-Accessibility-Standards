@@ -1,0 +1,29 @@
+2.1.6 Emergency Alert Presentation for Modals
+Emergency alerts and their presentation of EAS information do not include modal-based requirements in FCC regulations. To provide a more inclusive emergency alert experience for everyone, all platforms, apps, and websites must support modal-based emergency alerts. 
+
+2.1.6-A
+All modal-based emergency alerts must include English and Spanish content in the United States. These guidelines will require other languages as they move beyond the United States and receive wider adoption. Emergency alert modals must use the language selected in the platform, app, or website settings.
+
+2.1.6-B
+While navigating menus, guides, etc. or while video playback is not active, all platforms, apps, and websites must present EAS information as modal-based alerts.
+
+2.1.6-C
+Additionally, platforms, apps, and websites that cannot overlay emergency alert banners onto live, recorded, On Demand, or app-based video content must present the EAS information as modal-based alerts. This requirement only applies to real-time alerts as modals cannot be recorded by a DVR.
+
+2.1.6-D
+Video playback must not stop while modal-based emergency alerts are present; they are intended to be overlays per FCC requirements. During the playback of alert audio, all program audio must be muted.
+
+2.1.6-E
+All platforms, apps, and websites that display modal-based emergency alerts must include the alert text within the modal and play the alert’s audio content twice before allowing the user to dismiss the modal.
+
+2.1.6-F
+During playback of real-time, modal-based, emergency alerts, the modal must be captive and restrict access to all overlays. Navigation and interactions that exit or stop video playback must be disabled until the modal becomes dismissible. Pause and play must remain available but don’t affect alert audio, only video playback. Mute must remain available for all audio.
+
+2.1.6-G
+While restricting navigation with a modal-based, emergency alert, the dismiss button (CTA) must show a disabled state to inform the user that an action is not yet possible. Once the modal becomes dismissible, the button should receive the standard enabled, focused, or hovered state as required by each platform, app, or website.
+
+2.1.6-H
+When screen reader or text-to-speech features are enabled, the modal-based, emergency alert audio must play twice before speaking the dismiss button script. Navigation to non-focusable elements of the modal must be restricted on text-to-speech platforms. Screen reader platforms must allow the user to focus the modal title and alert content after the modal becomes dismissible.
+
+2.1.6-I
+When platforms, apps, or websites offer zoom or font scaling, the modal-based, emergency alert designs must be able to accommodate the full text of the alert.

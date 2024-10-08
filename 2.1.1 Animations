@@ -1,0 +1,17 @@
+2.1.1 Animations
+While animations sometimes add visual design appeal, they can cause confusion or medical complications. Regardless of platform-specific animation support, all platforms, apps, or websites must adhere to these requirements. This avoids the possibility of seizure-inducing animations and accommodates users with other visually influenced conditions.
+
+2.1.1-A
+Flashing, blinking, or pulsing animations are not permitted, regardless of size, frequency, or color.
+
+2.1.1-B
+Users must have the ability to turn off animations. All platforms, apps, and websites must include animation controls. An on/off toggle for all animations is required; offering users more granular control is encouraged.
+
+2.1.1-C
+Platforms may not use animations during setup or onboarding states. Animations must be opt-in, selectable during onboarding, and easily accessible from a menu or settings interface.
+
+2.1.1-D
+If a platform offers animation control APIs, all apps and websites must negotiate those settings before showing animations in any state. This includes onboarding, launch, resume, and any other software states.
+
+2.1.1-E
+If a platform does not offer animation control APIs, apps and websites must make animations opt-in and disabled by default. Easy access to animation controls via onboarding, menus, or a settings interface is encouraged.

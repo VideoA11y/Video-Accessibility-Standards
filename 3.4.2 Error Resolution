@@ -1,0 +1,20 @@
+3.4.2 Error Resolution
+Users may have a difficult time understanding and fixing errors, and should be given assistance in troubleshooting. 
+
+3.4.2-A
+When input errors are detected, the system must suggest how to correct the errors in a clear, concise, and precise manner.
+
+3.4.2-B
+When input errors are detected, the form must retain information that was entered correctly so that users do not have to re-enter it.
+
+3.4.2-C
+When input errors are detected, the form must display a summary of the errors at the top of the page and an individual error message inline for each field in error.
+
+3.4.2-D
+Users must not have to memorize instructions to fix errors. Error handling instructions must be visible while the user is fixing the problem.
+
+3.4.2-E
+Complex form fields must indicate successful input entry.
+
+3.4.2-F
+Future – Consider moving focus to the error message on submitting with errors.

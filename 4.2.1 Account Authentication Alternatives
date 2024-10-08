@@ -1,0 +1,8 @@
+4.2.1 Account Authentication Alternatives
+If a platform, app, or website requires account authentication, the user flow must include additional authentication methods besides the manual input of a password.
+
+4.2.1-A
+All platforms, apps, and websites must provide account authentication through manual password entry and alternative, accessible methods including, but not limited to, randomly-generated SMS or email verification codes, mobile app verification, QR code verification (QR codes must not be the only additional method since they are inaccessible for people with vision impairments).
+
+4.2.1-B
+No platforms, apps, or websites may utilize cognitive function tests as part of their account authentication or creation flows as specified in section 3.3.2.

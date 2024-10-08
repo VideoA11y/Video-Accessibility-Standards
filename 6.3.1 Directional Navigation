@@ -1,0 +1,8 @@
+6.3.1 Directional Navigation
+Navigation must have a consistent flow to decrease the cognitive load for users and enable integration with various assistive technologies and input methods.
+
+6.3.1-A
+Navigation must flow from top-left to bottom-right and start over at top-left when it is finished, without getting stuck. Navigation with only a designated controller or keyboard depends on consistent directional navigation.
+
+6.3.1-B
+Users must be provided with two or more ways to locate content. At minimum, this should include menu and search features.

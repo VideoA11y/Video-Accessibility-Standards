@@ -1,0 +1,2 @@
+5.2 Reading Direction
+Languages may be read in different directions (i.e. right-left, left-right, top-bottom, bottom-top). All directional possibilities for supported languages must work properly when enabled.

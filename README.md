@@ -1,2 +1,2 @@
-# Video-Accessibility-Requirements
-A collection of Accessibility requirements for Video Platforms and Connected TV
+# Video-Accessibility-Standards
+A collection of Accessibility guidelines for Video Platforms and Connected TV

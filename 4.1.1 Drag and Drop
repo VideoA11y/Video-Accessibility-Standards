@@ -1,0 +1,8 @@
+4.1.1 Drag and Drop
+If a platform, app, or website includes a user interface design that requires drag and drop to accomplish a task, the interface must allow for alternative interactions that do not require the dexterity necessary to drag and drop items.
+
+4.1.1-A
+When possible, all platforms, apps, and websites should avoid drag and drop interactions. If using drag and drop, the interface must have an alternative interaction that doesn’t require fine motor control. For example: if a user selects an item, navigates to a new location within the drag and drop interface, and presses the select interaction again, the interface should interpret that flow as drag and drop.
+
+4.1.1-B
+All drag and drop interactions must be compatible with assistive technology designed to replace mouse, pointer, and touch interactions. Specifically, all platforms, apps, or websites must accommodate keyboard, tab, or switch navigation. These assistive technologies utilize the same patterns as 10-foot, remote interfaces that do not have mouse, pointer, or touch flows.

@@ -1,0 +1,11 @@
+6.3.2 Shortcuts and Keystrokes
+Navigation must have a consistent flow to decrease the cognitive load for users and enable integration with various assistive technologies and input methods.
+
+6.3.2-A
+All platforms must support a single form of input capable of controlling all interactions and functions, without needing specific timings for individual keystrokes, taps or clicks. Platforms should not require users to have multiple controlling devices, such as: a mouse and a keyboard, two controllers, or touch capability and a mouse. 
+
+6.3.2-B
+Users must be able to customize the pattern of button shortcuts and timed keystrokes. Limited mobility can prohibit users from utilizing many shortcuts and timed keystrokes. 
+
+6.3.2-C
+Users must have the options to disable, remap or cause input shortcuts to only be activated on focus. Multiple simultaneous interactions are impossible for many users.

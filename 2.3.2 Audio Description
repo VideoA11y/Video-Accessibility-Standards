@@ -1,0 +1,26 @@
+2.3.2 Audio Description
+Audio Descriptions (AD) narrate the visual scene, characters, gestures, etc. between spoken audio for prerecorded video content. Audio Descriptions are required for all distributed content platforms, apps, and websites.
+
+2.3.2-A
+All distributed content must have English and Spanish Audio Description tracks that sufficiently convey the visual elements of a program. Other languages, tbd.
+
+2.3.2-B
+Audio Description tracks must be separate and synchronized with the main audio for the corresponding language tracks and use appropriate voices for each language, synthetic or human, that do not degrade the entertainment experience.
+
+2.3.2-C
+Linear distributors must work with programmers to provide a mechanism for passing through additional AD languages as they become available on linear programming.
+
+2.3.2-D
+Distributed, prerecorded content must include Audio Descriptions for all video content including TV shows, movies, commercials, etc.
+
+2.3.2-E
+Platforms that support user-produced prerecorded content must allow uploaders to add multiple Audio Description tracks (English, Spanish, etc.) to their video content for those who choose to include them. If added via platform-specific tools, platforms must make the Audio Description tracks available for download and reuse elsewhere.
+
+2.3.2-F
+Live Audio Descriptions are technically difficult to produce and not required for these guidelines. When possible, distributed and user-produced content platforms should support live AD for the providers, productions, and users who choose to include it.
+
+2.3.2-G
+All platforms, apps, and websites must include the ability to easily find assets with Audio Descriptions via search, dedicated swimlanes, guide filters, etc. This will require linear platforms to separate AD metadata from SAP metadata whereas streaming platforms are not limited by the metadata provided through linear feeds.
+
+2.3.2-H
+All platforms must have the ability to turn Audio Descriptions on or off from within the settings interface, the video player interface, and a user-definable remote interaction.

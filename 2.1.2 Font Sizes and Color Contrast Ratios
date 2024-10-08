@@ -1,0 +1,29 @@
+2.1.2 Font Sizes and Color Contrast Ratios
+All visual content intended to convey meaning – images, text, shapes, etc. – must meet the minimum contrast ratios in these requirements in order to accommodate users with low vision, color blindness, or other visual considerations.
+
+2.1.2-A
+Pixel density is a major consideration for 10-foot platforms and apps. At this point, most content design considerations start with 1080p FHD (Full High Definition). All font sizes in these guidelines are specifically written for 1080p FHD. 4K UHD (Ultra High Definition) and 8K UHD platforms and apps must scale their font sizes by 2x, or 4x respectively, for all size requirements in these guidelines.
+
+2.1.2-B
+10-foot platforms and apps must use a minimum 32pt font for all visual elements on 1080p FHD devices.
+
+2.1.2-C
+Large text on 10-foot platforms or apps, such as headings or section titles (64pt or higher), must meet a minimum contrast ratio of 4.5:1. 
+
+2.1.2-D
+Smaller text on 10-foot platforms or apps, such as asset descriptions, metadata, etc. (less than 64pt), must meet a minimum contrast ratio of 7:1.
+
+2.1.2-E
+Websites specifically made for 10-foot devices must adhere/adapt to the same font size and color contrast ratio requirements as present in 2.1.2 A through D.
+
+2.1.2-F
+Large text on non-10-foot platforms, apps, and websites, such as headings or section titles (24pt or higher), must meet a minimum contrast ratio of 4.5:1. 
+
+2.1.2-G
+Smaller text on non-10-foot platforms, apps, and websites, such as asset descriptions, metadata, etc. (less than 24pt), must meet a minimum contrast ratio of 7:1. 
+
+2.1.2-H
+Images, logos, and visual elements that convey meaning, regardless of size, must have a minimum contrast ratio of 4.5:1 between foreground and background objects.
+
+2.1.2-I
+If an image or other visual element is purely decorative and does not convey meaning, minimum contrast ratios do not apply unless used as background elements to foreground content like text, logos, etc.

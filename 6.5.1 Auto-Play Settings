@@ -1,0 +1,8 @@
+6.5.1 Auto-Play Settings
+Auto-play content should be disabled in settings by default and considered an opt-in feature to prevent unnecessary cognitive load.
+
+6.5.1-A
+Audio and video content that plays automatically must have controls that allow the user to stop, pause, mute, or adjust the volume. 
+
+6.5.1-B
+Audio and video content that automatically plays must be turned off by default in settings. This should be customizable to the user but always start in the off position, and remain in the off position, unless the user changes the setting.

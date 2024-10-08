@@ -1,0 +1,14 @@
+3.2.1 UI Context Changes
+If an action within a platform, app, or website will change the context of the user interface, that change must behave as users would expect.
+
+3.2.1-A
+A link must clearly communicate if it will change the context of the user interface.
+
+3.2.1-B
+User interface elements must not change based on an interaction without clearly notifying users of the change beforehand.
+
+3.2.1-C
+Changes of context must only be initiated by a direct user request. Changes of context by other methods must have a setting to enable or disable them.
+
+3.2.1-D
+Modals and dialogs must not force users to change context.

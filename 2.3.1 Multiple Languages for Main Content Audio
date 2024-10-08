@@ -1,0 +1,17 @@
+2.3.1 Multiple Languages for Main Content Audio
+In order to create a more inclusive cultural experience, all content providers must include multiple language support for the main content audio of every asset.
+
+2.3.1-A
+All distributed video content must have English and Spanish support in the United States. These guidelines will require other languages as they move beyond the United States and receive wider adoption.
+
+2.3.1-B
+SAP must continue to provide a Spanish audio track for the main content audio on linear platforms. Linear distributors must work with programmers to provide a mechanism for passing through additional languages for the main content audio as they become available on linear programming.
+
+2.3.1-C
+Streaming platforms must continue to provide multiple languages for the main audio content using the separate audio tracks they receive now. 
+
+2.3.1-D
+The audio for the original language of an asset must be synchronized within 500ms of video playback per CEA 703-E. Add Reference. IMO, this latency requirement should be significantly less (<100ms). Look for studies on audio latency. 
+
+2.3.1-E
+Latency studies from W3C say that audio should not be ahead of the video by more than 40 ms, and video should not be ahead of audio by more than 160 ms. 5 second latency averaged over the duration of the program is achievable for syncing live speech and CC. Video and CC should have max latency of +/- 20ms. Sign language and video should favor accurate interpretation over low latency.

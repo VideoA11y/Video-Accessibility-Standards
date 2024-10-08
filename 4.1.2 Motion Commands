@@ -1,0 +1,5 @@
+4.1.2 Motion Commands
+If a platform utilizes motion-based commands, pointers, or sensors, the interface must allow these commands to be deactivated.
+
+4.1.2-A
+Platforms that include motion and gesture commands must give users the option to disable all pointers and sensors. People with motor disabilities may often trigger these commands by mistake so being able to turn them off can give them greater control and more successful interactions.

@@ -1,0 +1,70 @@
+1.1.2 Customizable Closed Captioning Styles
+All modern Closed Captioning must meet or exceed Enhanced Closed Captioning (ECC), specified in CEA 708-E, and allow users to customize the appearance of Closed Captioning.
+
+1.1.2-A
+While customizing Closed Captioning styles, users must be able to preview changes without leaving the customization interface.
+
+1.1.2-B
+Closed Captioning options must have multiple choices (not just on/off) for the transparency of text, background, and window objects. Consider expanding this requirement further after getting CEA 708-E in our hands.
+
+1.1.2-C
+Closed Captioning options must have a minimum of 22 color choices for text, background, and window objects. The 22 required colors are documented in CEA 708-E from 2013, available for a fee, but we’ve included them here by converting the CEA color value to rgb and hex for broader compatibility. Add image.
+
+Black – cea(0, 0, 0), rgb(0, 0, 0), #000000
+Gray – cea(1, 1, 1), rgb(85, 85, 85), #555555
+White – cea(2, 2, 2), rgb(170, 170, 170), #AAAAA – this is light gray
+Bright White – cea(3, 3, 3), rgb(255, 255, 255), #FFFFFF – this is white
+Dark Red – cea(1, 0, 0), rgb(85, 0, 0), #550000
+Red – cea(2, 0, 0), rgb(170, 0, 0), #AA0000
+Bright Red – cea(3, 0, 0), rgb(255, 0, 0), #FF0000
+Dark Green – cea(0, 1, 0), rgb(0, 85, 0), #005500
+Green – cea(0, 2, 0), rgb(0, 170, 0), #00AA00
+Bright Green – cea(0, 3, 0), rgb(0, 255, 0), #00FF00
+Dark Blue – cea(0, 0, 1), rgb(0, 0, 85), #000055
+Blue – cea(0, 0, 2), rgb(0, 0, 170), #0000AA
+Bright Blue – cea(0, 0, 3), rgb(0, 0, 255), #0000FF
+Dark Yellow – cea(1, 1, 0), rgb(85, 85, 0), #555500
+Yellow – cea(2, 2, 0), rgb(170, 170, 0), #AAAA00
+Bright Yellow – cea(3, 3, 0), rgb(255, 255, 0), #FFFF00
+Dark Magenta – cea(1, 0, 1), rgb(85, 0, 85), #550055
+Magenta – cea(2, 0, 2), rgb(170, 0, 170), #AA00AA
+Bright Magenta – cea(3, 0, 3), rgb(255, 0, 255), #FF00FF
+Dark Cyan – cea(0, 1, 1), rgb(0, 85, 85), #005555
+Cyan – cea(0, 2, 2), rgb(0, 170, 170), #00AAAA
+Bright Cyan – cea(0, 3, 3), rgb(0,255,255), #00FFFF
+
+1.1.2-D
+Closed Captioning options must have multiple choices to adjust the text size, relative to the standard sizing of 10-foot text, between 50-200%. Standard text sizing is calculated via a modern, 16:9 display (720p/HD, 1080p/FHD, 2160p/4K UHD, 4320p/8K UHD). Closed captioning characters exist in a grid with 15 horizontal rows and 42 vertical columns after calculating 5% padding from all edges of the screen. This is the latest iteration of the Safe Title Area as defined by RP 2046-2. Simply, this is 90% of the pixel-based height and width of the screen divided by 15 and 42 respectively. A 100% text size character must fit into a single cell of that grid. 50% would utilize 30 rows and 84 columns, whereas 200% is rounded down to 7 rows and 21 columns. When calculated as pixels, the minimum font sizes for the 10-foot experience (or 50% of the standard) are – 720p:21px, 1080p:32px, 2160p:64px, 4320p:128px. The standard, or default, font sizes (100%) are – 720p:42px, 1080p:64px, 2160p:128px, 4320p:256px. Add a new reference image.
+
+1.1.2-E
+Dive into the full CEA specifications, add more info as necessary, and determine line spacing / anchor / positioning rules for captions.
+
+1.1.2-F
+Closed Captions must not display more than four lines of content at once to avoid presenting the user with too much information and obscuring other visual content. Pre-recorded assets with properly synchronized captions wouldn’t typically approach this limitation as four lines of CC represents an extreme amount of information. Live, transcribed captions that use the roll-up presentation style typically use all four lines and expire older captions as new content is added.
+
+1.1.2-G
+Closed Captioning options must have at least one font choice for each of the following styles: default (set by CC provider), monospaced with serifs (i.e. Courier), proportionally spaced with serifs (i.e. Times New Roman), monospaced without serifs (i.e. Helvetica Monospaced), proportionally spaced without serifs (i.e. Arial), casual (i.e. Impress), cursive (i.e. Coronet), small capitals (i.e. Engravers Gothic), readability (i.e. Lexend).
+
+1.1.2-H
+Custom fonts used for Closed Captioning (excluding monospaced) must use a minimum letter spacing (kerning) of 10% relative to the font size. Letter spacing is crucial for readability, but varies by font and will likely need individual adjustments.
+
+1.1.2-I
+Platforms, apps, and websites that support Variable Font Technology (VFT), must use VFT fonts for Closed Captioning and include options to control the width, weight, and letter spacing for each font; additional customizations are optional. VFT enhances readability and comprehension for everyone, but is not ubiquitously supported.
+
+1.1.2-J
+All fonts that satisfy Enhanced Closed Captioning style requirements must also have special character (unicode) support to properly display all supported characters in curated Closed Captioning content. (more information at Cornell)
+
+1.1.2-K
+Closed Captioning options must have at least one font edge style for each of the following choices: no edge (no style), raised edges (up bevel/emboss style), depressed edges (down bevel/emboss style), uniform edges (stroke/outline style), and drop shadowed (shadow angle unspecified) edges. Additional edge style considerations include inner shadow, and inner/outer glow.
+
+1.1.2-L
+Closed Captioning options should respect the default text presentation style (pop-on, roll-up, and paint-on) as set by the CC providers unless the user has chosen to override the text presentation style by selecting another option including, but not limited to, pop-on, roll-up, and paint-on. Additional presentation styles should not violate accessibility guidelines surrounding animations found in section 2.1.1.
+
+1.1.2-M
+Closed Captioning options should respect the default positioning as set by the CC providers unless the user has chosen to override the positioning by selecting another position including, but not limited to, the horizontal positions – left, right, and center, the vertical positions – top, bottom, or middle, or any viable combination.
+
+1.1.2-N
+The Closed Captioning options interface must have at least 5 user-customizable presets or the ability to add presets at will. These presets must make the customizations persistent, even if the device is turned off, the user exits and re-enters an app, logs out, etc., until they change to another preset or apply the default settings. An additional option must always allow the user to enable the default Closed Captioning options, removing all customizations and rendering captions as intended by the CC provider.
+
+1.1.2-O
+Closed Captioning options must have an option for underlined text. This keeps letters in a line for people with dyslexia who may perceive text as floating.

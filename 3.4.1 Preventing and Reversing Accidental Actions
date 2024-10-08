@@ -1,0 +1,32 @@
+3.4.1 Preventing and Reversing Accidental Actions
+Users may not understand how data may be affected by certain actions and should be given methods to prevent and reverse errors. 
+
+3.4.1-A
+Undo or redo buttons must be provided and they must work in a predictable manner.
+
+3.4.1-B
+All information submission changes must be reversible, verifiable, or confirmable.
+
+3.4.1-C
+Changes that alter or delete legal, financial, or test data must be reversible, verifiable, or confirmable.
+
+3.4.1-D
+Destructive changes must trigger a modal allowing the user to confirm or cancel the change before it can take effect.
+
+3.4.1-E
+Constraints should be utilized to limit the types of input users can make in order to guide users toward the correct use of an interface and prevent errors.
+
+3.4.1-F
+Required form fields should be obvious and easily identifiable.
+
+3.4.1-G
+Labels on form fields must remain visible after a user enters content inside them.
+
+3.4.1-H
+Before a form, information must be presented to the user about the purpose of the form, the number of pages or steps involved, and any additional items that they may need to locate for additional information (such as legal documentation, insurance cards, or personal identification).
+
+3.4.1-I
+Complex input that requires specific formatting should assist the user in matching the correct formatting. For example, dates presented with backslashes should automatically add backslashes in the user’s input.
+
+3.4.1-J
+Form submit buttons must not be disabled.

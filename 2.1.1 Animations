@@ -1,17 +1,17 @@
 2.1.1 Animations
-While animations sometimes add visual design appeal, they can cause confusion or medical complications. Regardless of platform-specific animation support, all platforms, apps, or websites must adhere to these requirements. This avoids the possibility of seizure-inducing animations and accommodates users with other visually influenced conditions.
+Animations, while visually appealing, can cause confusion, trigger seizures in users with photosensitive epilepsy, or cause discomfort for those with other cognitive or visual conditions. Regardless of platform-specific animation support, all platforms, apps, or websites must adhere to these requirements
 
 2.1.1-A
-Flashing, blinking, or pulsing animations are not permitted, regardless of size, frequency, or color.
+Flashing, blinking, or pulsing animations are prohibited. This goes beyond WCAG 2.1 2.3.1, which restricts flashing content that exceeds three flashes per second. It is simply best to avoid animations of this type.
 
 2.1.1-B
-Users must have the ability to turn off animations. All platforms, apps, and websites must include animation controls. An on/off toggle for all animations is required; offering users more granular control is encouraged.
+Users must have the option to turn off all animations, following WCAG 2.1 2.2.2, which mandates that users can pause, stop, or hide any moving content.
 
 2.1.1-C
-Platforms may not use animations during setup or onboarding states. Animations must be opt-in, selectable during onboarding, and easily accessible from a menu or settings interface.
+Animations should never be forced on users during onboarding. All animations must be opt-in and easily accessible through the settings interface.
 
 2.1.1-D
-If a platform offers animation control APIs, all apps and websites must negotiate those settings before showing animations in any state. This includes onboarding, launch, resume, and any other software states.
+Platforms providing animation control APIs require apps and websites to adjust animations to comply with user preferences. This encourages platform-wide consistency for animation handling.
 
 2.1.1-E
-If a platform does not offer animation control APIs, apps and websites must make animations opt-in and disabled by default. Easy access to animation controls via onboarding, menus, or a settings interface is encouraged.
+For platforms without animation control APIs, apps and websites must have animations off by default and allow users to opt-in. This approach reduces the likelihood of exposing users to undesired visual stimuli.

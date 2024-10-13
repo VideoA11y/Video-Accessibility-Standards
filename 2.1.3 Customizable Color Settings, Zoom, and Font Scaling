@@ -1,23 +1,23 @@
 2.1.3 Customizable Color Settings, Zoom, and Font Scaling
-When possible, we strongly recommend offering the ability to customize the user interface with high contrast colors, user-definable colors, zoom, and font scaling.
+Giving users control over the visual presentation of content through customizable settings like high contrast or user-definable colors, zoom, and font scaling enhances accessibility for individuals with various visual needs.
 
 2.1.3-A
-If a platform, app, or website does not meet the minimum color contrast ratios specified in 2.1.2 with their default designs, they must include a high contrast option in their accessibility settings that meets those requirements. 
+If a platform, app, or website does not meet the minimum contrast ratios found in 2.1.2,  they must include a high-contrast option in their accessibility settings to meet those requirements.
 
 2.1.3-B
-If a platform, app, or website offers user-customizable foreground/background colors and the user has high contrast options enabled in settings, the interface must only show high contrast color ratios as defined in 2.1.2.
+If a platform, app, or website offers user-customizable foreground/background colors and the user has high contrast options enabled in settings, the interface must only show high contrast color ratios as defined in 2.1.2 to maintain accessibility, particularly for users with low vision and color blindness.
 
 2.1.3-C
-When platforms, apps, and websites allow users different color choices for large vs. small text, options must adhere to the contrasts specified in 2.1.2. If a color choice applies to both sizes, it must meet the 7:1 contrast ratio requirement for small text.
+When platforms, apps, and websites allow users different color choices for large vs. small text, these options must adhere to the contrasts specified in 2.1.2. If a color choice applies to both sizes, it must meet the 7:1 ratio requirement for small text.
 
 2.1.3-D
-Offering zoom or font scaling features does not exempt any platform, app, or website from adhering to the minimum font size requirements specified in 2.1.2. 
+Offering zoom and font scaling options does not exempt a platform, app, or website from adhering to the minimum font size and contrast requirements outlined in 2.1.2. Zoom functions are supplementary, not a substitute for accessibility.
 
 2.1.3-E
-Inversely, zoom and font scaling features are not required since all platforms, apps, or websites must respect the minimum font size requirements specified in 2.1.2.
+Conversely, zoom is a suggestion, not a requirement. Compliance with minimum font sizes is a good baseline that can be further enhanced with zoom features.
 
 2.1.3-F
-If a platform has built-in zoom, font scaling, or contrast features, all apps and websites made for that platform must respect the zoom, font scaling, and contrast settings chosen by the user. Apps and websites may not disable the zoom, font scaling, or contrast features present on any platform.
+If a platform has user-settings for zoom, font scaling, and contrast settings at a system level, apps or websites must respect those settings. They may not disable any zoom, font scaling, or contrast features present on any platform.
 
 2.1.3-G
 As with other synchronized user settings, platforms, apps, and websites may not override the system-level default or user-selected zoom, font scaling, or contrast settings unless changed by the user within the interface settings. Apps and websites may not push their settings to the system-level settings at any time.

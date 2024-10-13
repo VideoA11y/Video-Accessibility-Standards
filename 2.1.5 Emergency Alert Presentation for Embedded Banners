@@ -1,29 +1,29 @@
 2.1.5 Emergency Alert Presentation for Embedded Banners
-Emergency alerts and their presentation, provided by the Emergency Alert System (EAS), need significant improvements for modern video interfaces including linear, streaming, and social platforms. These banner requirements go beyond the FCC regulations in order to provide a more inclusive emergency alert experience for everyone.
+Emergency alerts and their presentation, provided by the Emergency Alert System (EAS) or the local equivalent, need significant improvements for modern video interfaces including linear, streaming, and social platforms. These banner requirements go beyond the FCC regulations in order to provide a more inclusive emergency alert experience for everyone.
 
 2.1.5-A
-All emergency alerts must include English and Spanish content in the United States. These guidelines will require other languages as they move beyond the United States and receive wider adoption. Emergency alerts must use the language selected in the platform, app, or website settings.
+All emergency alerts must support English and Spanish content in the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results. Alerts must use the language selected in the platform’s settings.
 
 2.1.5-B
-All platforms, apps, and websites that embed emergency alerts into video playback using a text-scrolling banner must display all visual content twice and play all audio content twice before dismissing the visual alert banner. Video playback must not stop while the alert is present; it is required to be an overlay per the FCC. During the playback of the alert audio, all program audio must be muted.
+Platforms, apps, and websites that display emergency alerts via text-scrolling banners must ensure that both the visual and audio content of the alert are played twice before dismissing the banner. Video playback must not stop while the alert is present; it is required to be an overlay per the FCC. During the playback of the alert audio, all program audio must be muted.
 
 2.1.5-C
-Program audio can be unmuted after completing the 2nd playback of the alert audio regardless of the text scroller progress. Once the visual text scroller renders the message twice, dismiss the banner and resume regular programming playback.
+After the second playback of the audio alert, program audio can resume even if the text scroller has not yet completed. Once the message has been displayed twice visually, the banner must dismiss and resume regular programming.
 
 2.1.5-D
-If the text scroller renders the message twice prior to completing the 2nd playback of the audio message, the alert banner should stay visually present, without text, and program audio should remain muted until the alert audio completes.
+If the text scroller finishes displaying the message before the audio alert finishes playing, the banner should stay visually present (without text) until the audio completes. This ensures all users receive the full emergency alert.
 
 2.1.5-E
-Having a Screen Reader or Text-to-Speech feature enabled must have no effect on emergency alert content. The banner must not be a focusable element.
+Screen readers or text-to-speech (TTS) engines should not impact the emergency alert’s content. The alert banner must not be a focusable element to avoid interference with the alert content.
 
 2.1.5-F
-If the user has Closed Captioning enabled, the emergency alert should not disable or interfere with the rendering of CC content. All platforms, apps, or websites must detect the position of CC content and adjust the location of the alert and/or CC to prevent visual interference.
+Closed Captioning must remain enabled during emergency alerts. The emergency alert should not disable or interfere with the rendering of CC content. All platforms, apps, or websites must detect the position of CC content and adjust the location of the alert and/or CC to prevent visual interference.
 
 2.1.5-G
-For real-time, emergency alerts, pausing live, recorded, On Demand, or app-based programs should not stop playback of the alert as it must be overlaid onto the programming and played in real-time. For emergency alert content recorded with a DVR, the alert must be embedded into the recording of the program and pause with the program. 
+For real-time emergency alerts, pausing any video content should not halt the alert playback, which must continue playing in real time. For DVR recordings, emergency alerts should be embedded into the program and pause with the video.
 
 2.1.5-H
-During playback of real-time, emergency alerts, access to overlays must be disabled to prevent interference with the alert. Navigation and interactions that exit or stop video playback must be disabled until the alert completes. Pause and play must remain available but don’t affect alert audio, only video playback. Mute must remain available for all audio. These requirements don’t apply to alerts in DVR recordings.
+When an emergency alert is playing, access to overlays (menus, settings, etc.) must be disabled until the alert completes. Users can still pause video playback, but this should not affect the audio of the alert. Mute functionality must always remain available.
 
 2.1.5-I
 When using a text-scrolling banner for emergency alerts, a single character should take approximately 10 seconds to scroll across the screen. The inclusion of audio playback or the program content type must not affect the scrolling speed.
@@ -32,10 +32,10 @@ When using a text-scrolling banner for emergency alerts, a single character shou
 Emergency alert banners must use a minimum of 64px for 1080p resolutions (2x/4x for 4K/8K, respectively) as defined in section 1.1.2. Banners must render in the 2nd row from the top of the 15 horizontal rows included in the Safe Title Area. If Closed Captioning is enabled and aligned to the top, the alert must render in the 2nd row from the bottom of the 15 horizontal rows included in the Safe Title Area. If the user selected a font size larger than 100% in their Closed Captioning settings, the emergency alert banner and its content must scale as defined in section 1.1.2.
 
 2.1.5-K
-The background colors of emergency alert banners must follow FCC regulations and use green for tests, yellow for weather watches, and red for weather warnings, amber alerts, Emergency Action Notifications (EANs), etc. (Consider colorblindness?)
+The background colors of emergency alert banners must follow FCC regulations and use green for tests, yellow for weather watches, and red for weather warnings, amber alerts, Emergency Action Notifications (EANs), etc.
 
 2.1.5-L
-The text used for banner alerts must respect the user’s selected Closed Captioning font and font edge choices. The text color for banner alerts must have a color contrast ratio of at least 4.5:1 for all backgrounds and is not user-definable. Banners must use black text for yellow backgrounds but can use black or white text for red and green backgrounds assuming they meet the minimum contrast ratio.
+Text in emergency alert banners must adhere to user-defined Closed Captioning font and font edge settings. The text color must maintain a contrast ratio of at least 4.5:1 and should use black text for yellow backgrounds and black or white for red and green backgrounds, ensuring legibility.
 
 2.1.5-M
-On rare occasions when EAS payloads don’t download (this is more common on streaming platforms than linear television), all platforms, apps, and websites must re-attempt acquisition of the payload for 120 seconds before accepting failure. Upon failure, a modal must be presented to the user to inform them of the problem.
+If a platform, app, or website fails to download the emergency alert payload content, it must retry for up to 120 seconds. If it still fails, a modal must notify the user of the issue and inform them to check for local information.

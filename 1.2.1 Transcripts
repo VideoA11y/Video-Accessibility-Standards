@@ -1,17 +1,29 @@
 1.2.1 Transcripts
-Whether the cadence of Closed Captioning is too fast or a user has difficulty with reading comprehension, transcripts offer users more control over the pace at which they consume multimedia content.
+Transcripts provide a detailed, static text version of video or audio content, allowing users to process information at their own pace. This feature is especially useful for people who may struggle with the speed or synchronization of real-time captions or for those who use assistive technologies like screen readers or braille devices.
 
 1.2.1-A
-All transcripts must have English and Spanish content in the United States. These guidelines will require other languages when they move beyond the United States and receive wider adoption.
+Transcripts must be available in English and Spanish for the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
 
 1.2.1-B
-Content with audio and no video (i.e. podcasts) must have transcripts available from the player interface, a website, an app, or another universally accessible solution. Any of these options will satisfy this requirement. Synchronization is not required, but beneficial if included in the player interface. Transcripts not included in the player should support braille devices.
+For audio-only content (e.g., podcasts), transcripts must be easily accessible through the player interface, a dedicated webpage, or an app. This ensures users can interact with audio content in a text-based format. Synchronization is not required, but is beneficial if transcripts are included in the player interface. External transcripts should support braille devices.
 
 1.2.1-C
-Content with audio and video must have Closed Captioning and transcripts available from the player interface, a website, an app, or another universally accessible solution. Any of these options will satisfy this requirement. Synchronization is not required, but beneficial if included in the player interface. Transcripts not included in the player should support braille devices.
+For audio-visual content, Closed Captioning must be available in the player interface, while transcripts must be easily accessible through the player interface, a dedicated webpage, or an app. This ensures users can interact with audio content in a text-based format. Transcript synchronization is not required, but is beneficial if transcripts are included in the player.
 
 1.2.1-D
-Distributed, prerecorded content must have accurate, curated transcripts and may not use automatically generated transcripts until the technology is proven reliable and accurate.
+Distributed, pre-recorded video content may not use automatically generated captions without human review. Transcripts must be effective for users. Current automatic transcription technologies often fall short of these requirements, particularly for live or complex dialogue.
 
 1.2.1-E
-Platforms that support user-produced prerecorded content must have automatically generated transcripts with demonstrably beneficial accuracy and allow uploaders to edit, replace, improve, and rate the accuracy of the generated transcripts.
+Platforms hosting pre-recorded, user-generated content must have automatically generated transcriptions with demonstrably beneficial accuracy. Contributors should not be allowed to disable transcription generation.
+
+1.2.1-F
+User-generated content platforms must provide tools that allow creators to edit, replace, improve, and rate the accuracy of generated transcripts. This allows content creators to achieve high standards of accessibility by improving caption accuracy.
+
+1.2.1-G
+Transcript files should be downloadable for reuse across other platforms ensuring easy access to high-quality captions for content creators and users.
+
+1.2.1-H
+Transcripts should be designed to work seamlessly with screen readers. This includes proper markup and formatting to ensure that all content is accessible.
+
+1.2.1-I
+Transcripts should support braille devices, ensuring that users who rely on these technologies can read the text accurately.

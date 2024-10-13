@@ -4,24 +4,24 @@ All video available via traditional media, streaming, or social platforms, regar
 
 1.1.1-A
 
-Distributed video content including tv shows, movies, commercials, etc., live or prerecorded, must have accurate and synchronized Closed Captioning. Pre-recorded CC synchronization should match the audio of the asset without delay when technically feasible. Delays are common with live, transcribed CC, but should be minimized as much as possible.
+Distributed video content including tv shows, movies, commercials, etc., live or prerecorded, must have accurate and synchronized Closed Captioning with minimal delay to create an equitable viewing experience. While live captions may have a slight delay due to the nature of real-time transcription, platforms should aim to minimize this gap as much as possible.
 
 1.1.1-B
 
-Distributed video content, live or prerecorded, may not use automatically-generated captions until the technology is proven reliable and accurate.
+Distributed video content, live or prerecorded, may not use automatically generated captions without human review. Current automatic captioning technologies often fall short of these requirements, particularly for live content or complex dialogue.
 
 1.1.1-C
 
-Platforms that support user-produced video content, live or prerecorded, must have automatically generated captions with demonstrably beneficial accuracy. These platforms must generate CC by default. Contributors may not disable CC.
+Platforms hosting user-generated content, live or prerecorded, must have automatically generated captions with demonstrably beneficial accuracy. Contributors should not be allowed to disable CC generation. This is particularly relevant to social media where a significant portion of content is produced by users.
 
 1.1.1-D
 
-Platforms that support user-produced video content, live or prerecorded, must allow uploaders to edit, replace, improve, and rate the accuracy of generated captions.
+User-generated content platforms must provide tools that allow creators to edit, replace, improve, and rate the accuracy of generated captions. This allows content creators to achieve high standards of accessibility by improving caption accuracy.
 
 1.1.1-E
 
-Closed captioning created via platform-specific tools, must be available for download and reuse elsewhere.
+Caption files should be downloadable for reuse across other platforms ensuring easy access to high-quality captions for content creators and users.
 
 1.1.1-F
 
-All platforms must have the ability to turn Closed Captioning on or off from within the settings interface, the video player interface, and a user-definable remote interaction.
+Platforms must offer intuitive controls to enable or disable captions from multiple interfaces, such as the video player itself, settings menus, and user-definable remote control interactions where applicable.

@@ -1,20 +1,20 @@
 2.1.4 Focus, Hover, and Navigation Behaviors
-All platforms, apps, and websites must provide a high-contrast visual indicator to represent the currently-focused or hovered object when using a remote, keyboard/tab navigation, mouse pointer, or other assistive technology and respect accessible navigation behaviors.
+All platforms, apps, and websites must provide a high-contrast visual indicator to represent the currently-focused or hovered object (e.g., buttons, links, or tiles) when using a remote, keyboard/tab navigation, mouse pointer, or other assistive technology and respect accessible navigation behaviors.
 
 2.1.4-A
-Since 10-foot platforms use remote buttons for selection and navigation, all 10-foot platforms, apps, and websites must offer a high-contrast (4.5:1 or higher) border for the currently-focused object to improve the accessible experience of using a remote.
+On video platforms using remote controls, a high-contrast (minimum 4.5:1) focus border must surround the currently focused object. This helps users with low vision easily identify which element is being selected. This adheres to WCAG 2.1 2.4.7, which emphasizes visible focus indicators.
 
 2.1.4-B
-Platforms, apps, and websites that support mouse, pointer, keyboard, or tab-based navigation and selection interactions must offer a high-contrast (4.5:1 or higher) focus and hover state for all interactable objects like buttons, tiles, links, etc.
+For platforms, apps, and websites that use mouse, keyboard, or tab-based navigation, a high-contrast focus border must be applied to all interactive objects, such as buttons, tiles, links. 
 
 2.1.4-C
-If a platform, app, or website does not include the required high-contrast visual indicator in their default user experience, they must include an option in their accessibility settings to turn the required indicator on or off.
+If a platform does not provide default high-contrast visual indicators, an option to enable or disable them must be available in the accessibility settings.
 
 2.1.4-D
-Focusing or hovering an object must not change the context of the interface by hiding or revealing other elements or placing the user’s focus elsewhere. Specifically, a selection interaction must precede all context changes.
+Focusing or hovering over an object must not change the visual context of the interface or placing the user’s focus elsewhere. Specifically, a selection interaction must precede all context changes. This aligns with WCAG 2.1 3.2.2 guidelines.
 
 2.1.4-E
-When using selection interactions on 10-foot platforms, apps, or websites, the interaction must not place the user’s focus elsewhere within the same interface. This is not a standardized pattern on 10-foot platforms and causes user confusion. 
+Selection interactions must not move focus unexpectedly and should open a new screen, menu, modal, or other logical path in the user flow. It should also be clear what the selection will do based on the context of the interface. Unexpected focus changes can confuse users, especially on larger screens.
 
 2.1.4-F
-Platforms, apps, and websites that use disabled elements (i.e. multi-part settings) must always keep those elements visible and focusable to inform the user of their current state. Disabled elements must receive a different visual state while adhering to the minimum contrast ratios defined in 2.1.2.
+Disabled elements (such as settings that are not currently available) must remain visible and focusable. Their disabled state must be visually distinguishable while still adhering to the minimum contrast ratios defined in 2.1.2. This ensures that users are always informed about the current status of all interface elements.

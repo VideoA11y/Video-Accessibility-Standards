@@ -1,17 +1,17 @@
 2.3.1 Multiple Languages for Main Content Audio
-In order to create a more inclusive cultural experience, all content providers must include multiple language support for the main content audio of every asset.
+Offering multiple language tracks for video content supports inclusivity for users from diverse linguistic backgrounds.
 
 2.3.1-A
-All distributed video content must have English and Spanish support in the United States. These guidelines will require other languages as they move beyond the United States and receive wider adoption.
+All distributed video content must support at least English and Spanish audio tracks in the U.S. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
 
 2.3.1-B
-SAP must continue to provide a Spanish audio track for the main content audio on linear platforms. Linear distributors must work with programmers to provide a mechanism for passing through additional languages for the main content audio as they become available on linear programming.
+On linear platforms, the SAP must continue to provide a Spanish-language audio track. Distributors must work with programmers to develop mechanisms that allow additional languages to pass through the various PID tracks as they become available.
 
 2.3.1-C
-Streaming platforms must continue to provide multiple languages for the main audio content using the separate audio tracks they receive now. 
+Streaming platforms must continue to provide multiple languages for the main audio content using separate audio tracks, offering users the ability to switch between languages as needed.
 
 2.3.1-D
-The audio for the original language of an asset must be synchronized within 500ms of video playback per CEA 703-E. Add Reference. IMO, this latency requirement should be significantly less (<100ms). Look for studies on audio latency. 
+Synchronization between audio and video should never exceed a latency of 500 milliseconds. 100 milliseconds is a generous value. Less than 50 milliseconds is ideal. However, most additional language audio tracks are produced by content teams and would require them to ensure the dialogue audio aligns with the video.
 
 2.3.1-E
-Latency studies from W3C say that audio should not be ahead of the video by more than 40 ms, and video should not be ahead of audio by more than 160 ms. 5 second latency averaged over the duration of the program is achievable for syncing live speech and CC. Video and CC should have max latency of +/- 20ms. Sign language and video should favor accurate interpretation over low latency.
+Sign language interpretation is certainly suggested but not required. This should not be embedded into your programming, but offered as an extra layer of accessibility that can be turned on and off within settings (similar to picture in picture). Sign language interpretation should always favor accuracy over latency.

@@ -1,26 +1,26 @@
 2.3.2 Audio Description
-Audio Descriptions (AD) narrate the visual scene, characters, gestures, etc. between spoken audio for prerecorded video content. Audio Descriptions are required for all distributed content platforms, apps, and websites.
+Audio Descriptions narrate the visual elements of a scene—such as actions, gestures, and environmental details—between spoken dialogue, enabling users with visual impairments to follow along with the content. Audio Descriptions are required for all distributed content platforms, apps, and websites.
 
 2.3.2-A
-All distributed content must have English and Spanish Audio Description tracks that sufficiently convey the visual elements of a program. Other languages, tbd.
+All distributed content must have Audio Description tracks in both English and Spanish to ensure accessibility for users with visual impairments. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
 
 2.3.2-B
-Audio Description tracks must be separate and synchronized with the main audio for the corresponding language tracks and use appropriate voices for each language, synthetic or human, that do not degrade the entertainment experience.
+Audio Description tracks must be separate and synchronized with the main audio track. Platforms should use voices—either synthetic or human—that are pleasant and do not detract from the entertainment experience. The descriptions must also be concise enough to fit between dialogue without overwhelming the user.
 
 2.3.2-C
-Linear distributors must work with programmers to provide a mechanism for passing through additional AD languages as they become available on linear programming.
+Linear distributors must work with programmers to ensure additional AD languages are provided, following a similar approach to how SAP languages are handled. This ensures that audio descriptions can be delivered in multiple languages as content distribution expands.
 
 2.3.2-D
-Distributed, prerecorded content must include Audio Descriptions for all video content including TV shows, movies, commercials, etc.
+Pre-recorded content, including TV shows, movies, commercials, and other distributed video content, must include Audio Descriptions. This applies to all forms of media distribution, ensuring that visually impaired users have access to narrated descriptions of visual elements.
 
 2.3.2-E
-Platforms that support user-produced prerecorded content must allow uploaders to add multiple Audio Description tracks (English, Spanish, etc.) to their video content for those who choose to include them. If added via platform-specific tools, platforms must make the Audio Description tracks available for download and reuse elsewhere.
+Platforms that allow user-generated content must provide the tools for uploaders to add multiple Audio Description tracks (e.g., English, Spanish) to their content. These tracks should be available for download and reuse across platforms, supporting content creators who prioritize accessibility.
 
 2.3.2-F
-Live Audio Descriptions are technically difficult to produce and not required for these guidelines. When possible, distributed and user-produced content platforms should support live AD for the providers, productions, and users who choose to include it.
+While live Audio Descriptions are not required, distributors and user-generated content platforms should support live AD where possible, especially for events like sports, live news broadcasts, or other real-time content.
 
 2.3.2-G
-All platforms, apps, and websites must include the ability to easily find assets with Audio Descriptions via search, dedicated swimlanes, guide filters, etc. This will require linear platforms to separate AD metadata from SAP metadata whereas streaming platforms are not limited by the metadata provided through linear feeds.
+Platforms, apps, and websites must provide users with an easy way to find content with Audio Descriptions. This may include dedicated search filters, swimlanes, or guide filters that allow users to locate AD-supported content quickly and efficiently.
 
 2.3.2-H
-All platforms must have the ability to turn Audio Descriptions on or off from within the settings interface, the video player interface, and a user-definable remote interaction.
+The option to enable or disable Audio Descriptions must be available in platform settings, the video player interface, and via remote control shortcuts. This flexibility ensures that users can seamlessly manage AD preferences while watching content.

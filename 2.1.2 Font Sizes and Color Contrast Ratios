@@ -1,29 +1,29 @@
 2.1.2 Font Sizes and Color Contrast Ratios
-All visual content intended to convey meaning – images, text, shapes, etc. – must meet the minimum contrast ratios in these requirements in order to accommodate users with low vision, color blindness, or other visual considerations.
+All visual content intended to convey meaning – images, text, shapes, etc. – must be designed with readability in mind and meet the minimum contrast ratios and font size requirements to accommodate users with low vision, color blindness, or other visual considerations.
 
 2.1.2-A
-Pixel density is a major consideration for 10-foot platforms and apps. At this point, most content design considerations start with 1080p FHD (Full High Definition). All font sizes in these guidelines are specifically written for 1080p FHD. 4K UHD (Ultra High Definition) and 8K UHD platforms and apps must scale their font sizes by 2x, or 4x respectively, for all size requirements in these guidelines.
+Pixel density is a major consideration for video entertainment platforms and apps. At the time of publication, most content design considerations start with 1080p FHD (Full High Definition). All font sizes in these guidelines are specifically written for 1080p FHD. 4K UHD (Ultra High Definition) and 8K UHD platforms and apps must scale their font sizes by 2x, or 4x respectively, for all size requirements in these guidelines.
 
 2.1.2-B
-10-foot platforms and apps must use a minimum 32pt font for all visual elements on 1080p FHD devices.
+For video platforms and apps, all visual elements must use a minimum 32pt font for 1080p FHD devices. This ensures that text is legible from a typical viewing distance (10 feet).
 
 2.1.2-C
-Large text on 10-foot platforms or apps, such as headings or section titles (64pt or higher), must meet a minimum contrast ratio of 4.5:1. 
+Large text on video platforms, such as headings or section titles (64pt or higher), must meet a minimum contrast ratio of 4.5:1.
 
 2.1.2-D
-Smaller text on 10-foot platforms or apps, such as asset descriptions, metadata, etc. (less than 64pt), must meet a minimum contrast ratio of 7:1.
+Smaller text on video platforms, such as metadata or descriptions (less than 64pt), must meet a contrast ratio of 7:1. This ensures small text remains legible for users with some visual impairments.
 
 2.1.2-E
-Websites specifically made for 10-foot devices must adhere/adapt to the same font size and color contrast ratio requirements as present in 2.1.2 A through D.
+Websites specifically designed for video platforms must adhere to the same font size and contrast ratio guidelines as described in subsections A-D. This ensures consistency across platform types.
 
 2.1.2-F
-Large text on non-10-foot platforms, apps, and websites, such as headings or section titles (24pt or higher), must meet a minimum contrast ratio of 4.5:1. 
+For mobile devices, tablets, and desktop computers, large text (24pt or higher) must maintain a minimum contrast ratio of 4.5:1 to ensure readability on smaller screens.
 
 2.1.2-G
-Smaller text on non-10-foot platforms, apps, and websites, such as asset descriptions, metadata, etc. (less than 24pt), must meet a minimum contrast ratio of 7:1. 
+Smaller text (less than 24pt) on mobile devices, tablets, and desktop computers must meet a contrast ratio of 7:1.
 
 2.1.2-H
-Images, logos, and visual elements that convey meaning, regardless of size, must have a minimum contrast ratio of 4.5:1 between foreground and background objects.
+All images, logos, and visual elements that convey meaning must maintain a contrast ratio of 4.5:1 between foreground and background to be perceivable by users with visual impairments.
 
 2.1.2-I
-If an image or other visual element is purely decorative and does not convey meaning, minimum contrast ratios do not apply unless used as background elements to foreground content like text, logos, etc.
+Purely decorative images or elements that do not convey essential information are exempt from contrast ratio requirements unless used as a background for content like text or logos.

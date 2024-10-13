@@ -1,20 +1,20 @@
 2.2.1 Assistive Technologies
-All platforms, apps, and websites must provide screen reader or text-to-speech engine support to create a narrated representation of the interface and its interactions.
+Assistive technologies, such as screen readers or TTS, play a vital role in converting visual interfaces into audible or tactile formats for users with visual impairments. All platforms, apps, and websites must provide support for assistive technology to create a narrated representation of the interface and its interactions.
 
 2.2.1-A
-When providing support for screen readers or text-to-speech (TTS) technology, all platforms, apps, and websites must follow screen reader and TTS guidelines.
+All platforms, apps, and websites must include full support for screen readers and TTS engines to create a narrated, accessible representation of the interface. This includes clear labeling of all interactive elements (buttons, links, menus).
 
 2.2.1-B
-At minimum, these assistive technologies must include options for speed, voice, verbosity, and volume controls within the settings of a platform, app, or website.
+Assistive technologies must provide options for adjusting speed, voice, verbosity, and volume. These customization options ensure that users can tailor the auditory interface to meet their individual preferences.
 
 2.2.1-C
-Generally speaking, all modern systems that offer app or website capabilities have screen reader or text-to-speech support. If these technologies are missing from a system, each app or website must implement their own screen reader or text-to-speech engine to comply with these guidelines.
+If a platform lacks native screen reader or TTS support, it is the responsibility of the app or website to implement these features to comply with these standards. This requirement guarantees that users always have access to assistive tools, even if the platform does not offer them natively.
 
 2.2.1-D
-All platforms, apps, or websites that use images, logos, or other visual elements to convey meaning must provide context for each instance in an alternative format that is compatible with screen reader or text-to-speech technology. Images must not be used to present long strings of text; that content must use actual text in the interface.
+Visual elements that convey meaning—such as images, logos, and icons—must include alternative text descriptions to provide context for screen readers or TTS engines. Images must not be used to present long strings of text; what is spoken via TTS should ultimately be visible or conveyed on the screen.
 
 2.2.1-E
-For 10-foot platforms, apps, and websites that provide screen reader technology, focusable images (i.e tiles, poster art, or other visual objects) in swimlanes, search results, asset details pages, etc. must include additional context for screen readers.
+For video platforms, apps, and websites with focusable images (like tiles or poster art) in swimlanes, search results, asset details pages, etc., those images must include additional context for screen readers like the title.
 
 2.2.1-F
-For 10-foot platforms, apps, and websites that utilize text-to-speech technology, only images that are interactable/navigable may receive focus (i.e. tiles in a swimlane). These images must provide context for the text-to-speech engine to speak on focus. When images are not interactable/navigable (i.e. poster art on an asset details page), the interface must provide additional context for the text-to-speech engine to speak on focus of another element (i.e. the movie title related to the poster art).
+When using a TTS engine on connected TV video platforms, only navigable or interactable images should receive focus (e.g., tiles in a swimlane). These images must provide context for the text-to-speech engine to speak on focus including related, visible, and unfocusable text like title, genre, or rating. When images are not navigable (e.g., background art on an asset details page), the interface must provide additional context to the text-to-speech engine when focused on a related object, or button.

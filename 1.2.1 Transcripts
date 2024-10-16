@@ -2,7 +2,7 @@
 Transcripts provide a detailed, static text version of video or audio content, allowing users to process information at their own pace. This feature is especially useful for people who may struggle with the speed or synchronization of real-time captions or for those who use assistive technologies like screen readers or braille devices.
 
 1.2.1-A
-Transcripts must be available in English and Spanish for the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
+Transcripts must be available in English and Spanish for the United States. International platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results.
 
 1.2.1-B
 For audio-only content (e.g., podcasts), transcripts must be easily accessible through the player interface, a dedicated webpage, or an app. This ensures users can interact with audio content in a text-based format. Synchronization is not required, but is beneficial if transcripts are included in the player interface. External transcripts should support braille devices.

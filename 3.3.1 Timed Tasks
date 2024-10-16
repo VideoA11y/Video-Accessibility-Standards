@@ -1,14 +1,14 @@
 3.3.1 Timed Tasks
-If a user interface automatically dismisses a visual element after a certain amount of time (toast, modal, etc.), the platform, app, or website must include an accessible setting that allows the user to customize the timeouts for all elements dependent on the interaction.  
+Timed visual elements, such as toasts or modals, must be user-friendly and customizable. Platforms, apps, and websites must provide users with the ability to adjust or disable timeouts, ensuring they can interact with these elements without feeling rushed. This is especially important for users with cognitive or motor disabilities, allowing them to process and respond to information at their own pace.
 
 3.3.1-A
-Toasts, banners, error alerts, etc. that don’t require user interaction before automatic dismissal must have a user-customizable setting to adjust the timeout value ranging from 5 to 120 seconds. The required values for this option are 5, 10, 15, 30, 60, 120. Offering the user more options is encouraged.
+Toasts, banners, and error alerts that auto-dismiss after a set time must include a customizable timeout feature. Users should be able to adjust timeouts from 5 to 120 seconds to accommodate their needs, aligning with WCAG 2.1 2.2.1, which emphasizes user control over time limits.
 
 3.3.1-B
-Captive elements, modals, interactable toasts, etc. must not enable automatic dismissal by default. These elements must have a user-customizable setting to adjust the timeout value ranging from Off to 120 seconds. Off represents the default, required experience for these elements. Selecting another required value – 5, 10, 15, 30, 60, or 120 – enables the timeout for these elements.
+Captive elements such as modals, interactive toasts, etc. must not auto-dismiss by default. Users must be able to enable, disable, or adjust the timeout.
 
 3.3.1-C
-When the user has Screen Reader or Text-to-Speech enabled, the user-customizable timeout value applies after the synthetic voice speaks the content of the visual element. (Add reference to SR and TTS guidelines)
+For users using screen readers or text-to-speech, the customizable timeout should begin after the synthetic voice finishes the script content. If no such logical mechanism is available on a platform, develop one or lobby the platform to change.
 
 3.3.1-D
-Regardless of the selected timeout value, Screen Reader and Text-to-Speech platforms must have a user-customizable button or pattern that repeats the spoken content of all dismissable elements. (Add reference to SR and TTS guidelines)
+Regardless of the user-defined timeout value, screen reader and text-to-speech platforms, apps, and websites must have a user-definable button or interaction that repeats the spoken content of all dismissable elements. This is commonly solved by including a “press up to repeat” text-to-speech instruction.

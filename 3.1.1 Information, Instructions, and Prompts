@@ -1,14 +1,14 @@
 3.1.1 Information, Instructions, and Prompts
-If a platform, app, or website communicates information, instructions, or prompts to users, that communication must be clear to all users. 
+Clear communication is critical for cognitive accessibility. Users should never need to interpret complex instructions or rely on incomplete information.
 
 3.1.1-A
-Information, instructions, or prompts must not be presented solely through shape, color, size, visual location, visual orientation, or sound. Using a single presentation indicator makes it impossible to communicate clearly to all users.
+Information, instructions, or prompts must not be conveyed solely through shape, color, size, visual location, visual orientation, or sound. Using a single presentation indicator makes it impossible to communicate clearly to all users. For example, colorblind users may miss color-coded instructions, and users with hearing impairments may not catch audio cues. This guideline prevents reliance on a single sensory input, aligning with accessibility standards for clear communication, such as WCAG 2.1 1.3.3.
 
 3.1.1-B
-Text content must not exceed a fifth-grade reading level. It should reduce the number of large words, contractions, and extensive or complex punctuation. It should use active voice instead of passive voice to make sentences shorter, more direct, and easier to understand.
+When presenting critical information such as task instructions, decision modals, etc., text content should not exceed a seventh-grade reading level. It should also avoid passive voice, complex words, contractions, or excessive punctuation. Simpler content aids comprehension for users with cognitive challenges. This aligns with WCAG 2.1 3.1.5.
 
 3.1.1-C
-Instructions and prompts must be direct to communicate that users are being asked to do something. They must also use general terms (e.g. “enter”) instead of input-specific terms (e.g. “click” or “type”) to avoid confusing people who use assistive technologies with different input methods than what was presented in the instructions.
+Instructions and prompts must clearly communicate that users need to take action. They must also use general terms like “select” instead of "click" or "tap." This benefits users with varying input devices and assistive technologies, ensuring that directions are universally understood regardless of how the user interacts with the content.
 
 3.1.1-D
-Text content must use a clearly written double-spaced font. This improves user understanding, assists people with dyslexia, and makes text easier to read by helping people mentally separate lines of text.
+Text content should be presented in a double-spaced format. Double-spacing helps users with dyslexia or low vision to more easily follow along and mentally separate lines of text.

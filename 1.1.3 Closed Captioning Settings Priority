@@ -1,5 +1,5 @@
 1.1.3 Closed Captioning Settings Priority
-Platforms must synchronize captioning settings across devices, unless overridden by the user. This ensures that accessibility preferences, once set, remain consistent across different platforms and devices. Whereas apps and websites with account-based Closed Captioning styles and synchronized settings must use the system-level settings and styles until overridden by the user on each new device.
+Platforms must synchronize captioning settings across devices, unless overridden by the user. This ensures that accessibility preferences, once set, remain consistent across different platforms and devices. However, apps and websites with account-based Closed Captioning styles and synchronized settings must use the system-level settings and styles until overridden by the user on each new device.
 
 1.1.3-A
 Platforms must use the default, system-level Closed Captioning settings and styles if a user has not overridden them or signs out of their platform account. The currently selected, platform-based, Closed Captioning state (on or off) must be respected until the user changes it. The default, system-level style must render captions without customizations as set by the CC content providers until the user changes them.

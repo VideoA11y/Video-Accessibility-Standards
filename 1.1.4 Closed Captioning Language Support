@@ -2,10 +2,10 @@
 Closed Captioning should support multiple languages to cater to the needs of a global audience. This includes proper encoding and presentation of non-English characters, and accommodating different writing directions.
 
 1.1.4-A
-All Closed Captioning must support English and Spanish content in the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
+All Closed Captioning must support English and Spanish content in the United States. International platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results.
 
 1.1.4-B
 Closed Captioning fonts must support the special characters required for non-English content. This may necessitate the use of alternate fonts for other languages.
 
 1.1.4-C
-Right-to-left or bottom-to-top languages must have compatible Closed Captioning presentation styles to accommodate the inverse animations. This includes, but is not limited to, pop-on, roll-up, and paint-on. Any additional presentation styles must accommodate alternative language directions as well should not violate accessibility guidelines surrounding animations found in section 2.1.1.
+Right-to-left or bottom-to-top languages must have compatible Closed Captioning presentation styles to accommodate the inverse animations. This includes, but is not limited to, pop-on, roll-up, and paint-on. Any additional presentation styles must accommodate alternative language directions and should not violate accessibility guidelines surrounding animations found in section 2.1.1.

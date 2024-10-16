@@ -1,5 +1,5 @@
 3.1.2 Controls
-All platforms must have a standardized control functionality that cannot be overridden by applications or websites.
+Platforms must ensure that controls are easy to use, consistent, and intuitive for all users. Predictable interactions reduce confusion and cognitive strain. Apps and websites must not override platform-provided controls and options.
 
 3.1.2-A
-Platform controls must be consistent regardless of application settings.
+Platform controls should be standardized and consistent across all applications and settings. This ensures that users are not confused by different control schemes or behaviors when switching between apps, promoting a smooth and predictable experience. Consistency in controls aligns with accessibility principles of predictable navigation, as outlined by WCAG 2.1 3.2.3.

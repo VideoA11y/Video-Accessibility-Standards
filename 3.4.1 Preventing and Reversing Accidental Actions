@@ -1,32 +1,32 @@
 3.4.1 Preventing and Reversing Accidental Actions
-Users may not understand how data may be affected by certain actions and should be given methods to prevent and reverse errors. 
+All platforms, apps, and websites must provide clear methods for preventing and resolving errors. These safeguards help reduce cognitive load and anxiety, particularly for users who may struggle with understanding the impact of certain actions or who need extra time to review their inputs.
 
 3.4.1-A
-Undo or redo buttons must be provided and they must work in a predictable manner.
+Undo and redo functionality are necessary for users to easily reverse unintended actions. For example, a user filling out a form or making changes to a document should be able to undo a previous step without losing other data. This not only helps reduce cognitive strain and anxiety but also aligns with WCAG 2.1 3.3.6, which emphasizes error prevention in forms and data entry processes.
 
 3.4.1-B
-All information submission changes must be reversible, verifiable, or confirmable.
+All submission-related changes must be reversible, verifiable, or confirmable. Allowing users to confirm or review their changes before final submission provides an additional layer of protection.
 
 3.4.1-C
-Changes that alter or delete legal, financial, or test data must be reversible, verifiable, or confirmable.
+Changes to highly sensitive or important information, such as personal, legal, or financial data, must be verifiable and confirmable before they take effect. Platforms, apps, and websites must provide users with clear steps to review or approve changes, helping prevent irreversible mistakes. This level of verification is in line with WCAG 2.1 3.3.4, ensuring that critical actions are deliberate and secure.
 
 3.4.1-D
-Destructive changes must trigger a modal allowing the user to confirm or cancel the change before it can take effect.
+Destructive changes, such as account deletion or data erasure, must always trigger a confirmation modal presenting the user with clear options to confirm or cancel the change before it takes effect.
 
 3.4.1-E
-Constraints should be utilized to limit the types of input users can make in order to guide users toward the correct use of an interface and prevent errors.
+Input constraints should be applied to fields where users are required to enter specific types of information (e.g., date formats or phone numbers). Guiding users toward correct entries through constraints such as format validation or selectable choices significantly reduces input errors.
 
 3.4.1-F
-Required form fields should be obvious and easily identifiable.
+Complex input fields, such as those requiring specific formatting (e.g., dates, phone numbers), should include assistive features like auto-formatting or placeholder text to guide users toward correct input. For instance, if a date is required in MM/DD/YYYY format, the field should automatically insert slashes to reduce user confusion and prevent formatting errors.
 
 3.4.1-G
-Labels on form fields must remain visible after a user enters content inside them.
+Required form fields must be clearly indicated, making it easy for users to identify which fields are mandatory. This reduces confusion, ensuring that users don’t miss essential information while completing forms.
 
 3.4.1-H
-Before a form, information must be presented to the user about the purpose of the form, the number of pages or steps involved, and any additional items that they may need to locate for additional information (such as legal documentation, insurance cards, or personal identification).
+Labels on form fields must remain visible even after users enter content. This prevents users from becoming disoriented or unsure about what information they’ve entered, especially in long forms. Keeping labels visible helps users review and confirm their input before submission.
 
 3.4.1-I
-Complex input that requires specific formatting should assist the user in matching the correct formatting. For example, dates presented with backslashes should automatically add backslashes in the user’s input.
+Before beginning a form, users must be informed of the form’s purpose, how many steps are involved, and any additional items they may need (e.g., legal documents, personal identification). This proactive communication helps users feel prepared and ensures they understand the requirements upfront, aligning with WCAG 2.1 3.3.2.
 
 3.4.1-J
-Form submit buttons must not be disabled.
+Submit buttons must remain enabled, even if some fields contain errors. Users should be allowed to submit the form, and the system should then provide feedback about any issues that need to be corrected. Disabling submit buttons before errors are addressed can lead to confusion, as users may not understand why they cannot proceed. This is in line with WCAG 2.1 3.3.1, which emphasizes providing clear feedback about errors without blocking user progress.

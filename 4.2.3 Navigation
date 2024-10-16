@@ -1,8 +1,28 @@
 4.2.3 Navigation
-All platforms, apps, and websites must make accommodations to prevent navigation from becoming repetitive.
+Platforms, apps, and websites must reduce the number of actions required to navigate interfaces and minimize repetitive navigation tasks.
 
 4.2.3-A
-Navigation actions should minimize the amount of button presses required to perform a task.
+Navigation and user flow must be intentionally designed to minimize the number of inputs required to complete tasks.
 
 4.2.3-B
-Platforms, apps, and websites should have ways to skip to the main content with a single interaction.
+Shortcuts or alternative input methods like voice control and search should be available to simplify navigation for users with limited motor control.
+
+4.2.3-C
+All connected TV navigation and user flows must support keyboard navigation and switch devices.
+
+4.2.3-D
+In addition to tab navigation, connected TV devices must support keyboard button mapping to simulate TV remotes. We recommend customization of these mappings in section 6.3.2, but we recommend the following default mappings (when supported) for better keyboard accessibility:
+
+Tab - standard, next-item navigation as determined by the tab order of objects.
+Arrow keys - mapped to the directional pad found on a tv remote.
+Enter/Return - mapped to the select button on the remote.
+Space - mapped to the play/pause button on the remote.
+Esc/Backspace/Delete - mapped to the back button on the remote.
++/- - mapped to the volume buttons on the remote.
+M - mapped to the mute button on the remote.
+R - mapped to the rewind button on the remote.
+F - mapped to the fast forward button on the remote.
+Media keys - should be mapped to the relative remote controls (when possible).
+
+4.2.3-E
+Platforms, apps, and websites must provide ways to skip to the main content with a single interaction, minimizing unnecessary steps. This aligns with WCAG 2.1 2.4.1. Generally, websites utilize a “skip to content” button that bypasses menus for keyboard tab navigation. On connected TV, no such button exists since keyboards should be allowed to navigate via the tab key or using the arrow keys like the directional pad on a TV remote.

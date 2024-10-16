@@ -1,5 +1,5 @@
 2.1.1 Animations
-Animations, while visually appealing, can cause confusion, trigger seizures in users with photosensitive epilepsy, or cause discomfort for those with other cognitive or visual conditions. Regardless of platform-specific animation support, all platforms, apps, or websites must adhere to these requirements
+Animations, while visually appealing, can cause confusion, trigger seizures in users with photosensitive epilepsy, or cause discomfort for those with other cognitive or visual conditions. Regardless of platform-specific animation support, all platforms, apps, or websites must adhere to these requirements.
 
 2.1.1-A
 Flashing, blinking, or pulsing animations are prohibited. This goes beyond WCAG 2.1 2.3.1, which restricts flashing content that exceeds three flashes per second. It is simply best to avoid animations of this type.

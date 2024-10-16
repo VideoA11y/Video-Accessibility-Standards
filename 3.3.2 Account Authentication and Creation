@@ -1,8 +1,14 @@
 3.3.2 Account Authentication and Creation
-If a platform, app, or website requires account authentication, the user flow must not include a cognitive function test for account authentication or creation. Including a secondary method of authentication offers more security and ease of access for users.
+If a platform, app, or website requires account authentication, the user flow must not include a cognitive function test for account authentication or creation. Offering second-device account creation and login offers more security and ease of access for users.
 
 3.3.2-A
-No platforms, apps, or websites may use a cognitive function test (like Captcha) for account authentication or creation. They are not compatible with some assistive technologies and create unnecessarily complicated user flows.
+Platforms, apps, and websites must not use cognitive function tests like CAPTCHAs for authentication or account creation, as these can create barriers for users with disabilities.
 
 3.3.2-B
-All platforms, apps, and websites must provide account authentication through manual password entry and alternative, accessible methods as stated in section 4.2.1.
+Platforms, apps, and websites must not solely rely on username and password authentication. They must provide at least one alternative, accessible authentication method–SMS or email authentication, biometric authentication, second-device app authorization with numeric codes, or local network handshakes.
+
+3.3.2-C
+Quick response codes (QR codes), when used for authentication purposes, must represent simple, readable, and understandable URLs. The URL must also be visible on the screen for users who cannot use a QR code. Screen reader and text-to-speech scripts must notify the user of the QR code and speak the URL.
+
+3.3.2-D
+Account screens that require the use of codes or links must have repeatable text-to-speech scripts using the pattern described in 3.3.1-D or something similar.

@@ -11,10 +11,10 @@ For audio-only content (e.g., podcasts), transcripts must be easily accessible t
 For audio-visual content, Closed Captioning must be available in the player interface, while transcripts must be easily accessible through the player interface, a dedicated webpage, or an app. This ensures users can interact with audio content in a text-based format. Transcript synchronization is not required, but is beneficial if transcripts are included in the player.
 
 1.2.1-D
-Distributed, pre-recorded video content may not use automatically generated captions without human review. Transcripts must be effective for users. Current automatic transcription technologies often fall short of these requirements, particularly for live or complex dialogue.
+Distributed, prerecorded video content may not use automatically generated captions without human review. Transcripts must be effective for users. Current automatic transcription technologies often fall short of these requirements, particularly for live or complex dialogue.
 
 1.2.1-E
-Platforms hosting pre-recorded, user-generated content must have automatically generated transcriptions with demonstrably beneficial accuracy. Contributors should not be allowed to disable transcription generation.
+Platforms hosting prerecorded, user-generated content must have automatically generated transcriptions with demonstrably beneficial accuracy. Contributors should not be allowed to disable transcription generation.
 
 1.2.1-F
 User-generated content platforms must provide tools that allow creators to edit, replace, improve, and rate the accuracy of generated transcripts. This allows content creators to achieve high standards of accessibility by improving caption accuracy.

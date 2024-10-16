@@ -2,13 +2,13 @@
 Emergency alerts and their presentation of EAS information do not include modal-based requirements in FCC regulations. To provide a more inclusive emergency alert experience for everyone, all platforms, apps, and websites must support modal-based emergency alerts.
 
 2.1.6-A
-All emergency alert modals must support English and Spanish content in the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results. Alerts must use the language selected in the platform’s settings.
+All emergency alert modals must support English and Spanish content in the United States. International platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results. Alerts must use the language selected in the platform’s settings.
 
 2.1.6-B
-Emergency alerts must be displayed as modals when users are navigating menus, guides, or when video playback is inactive. This ensures that users are always notified of alerts, even outside of video content.
+Emergency alerts must be displayed as modals when users are navigating menus or guides or when video playback is inactive. This ensures that users are always notified of alerts, even outside of video content.
 
 2.1.6-C
-Additionally, platforms, apps, and websites that cannot overlay emergency alert banners onto live, recorded, On Demand, or app-based video content must present the EAS information as modal-based alerts. This requirement only applies to real-time alerts as modals cannot be recorded by a DVR.
+Additionally, platforms, apps, and websites that cannot overlay emergency alert banners onto live, recorded, On Demand, or app-based video content must present the EAS information as modal-based alerts. This requirement only applies to real-time alerts, as modals cannot be recorded by a DVR.
 
 2.1.6-D
 Video playback should not stop while modal-based alerts are present, as the alert must be an overlay per FCC regulations. Program audio must be muted while the alert is active.
@@ -17,13 +17,13 @@ Video playback should not stop while modal-based alerts are present, as the aler
 All platforms, apps, and websites must play the alert’s audio content twice before the user is allowed to dismiss the modal. The text of the alert must be fully displayed within the modal during both audio playbacks.
 
 2.1.6-F
-During real-time modal-based emergency alerts, navigation and access to other overlays must be disabled until the alert has been played twice and the modal becomes dismissible. Mute must remain available for all audio.
+During real-time, modal-based emergency alerts, navigation and access to other overlays must be disabled until the alert has been played twice and the modal becomes dismissible. Mute must remain available for all audio.
 
 2.1.6-G
 The dismiss button in the modal must show a disabled state until the alert has fully played twice. Once it becomes dismissible, the button should show a standard enabled state, making it clear that the user can now dismiss the alert.
 
 2.1.6-H
-When screen reader or text-to-speech features are enabled, the modal-based, emergency alert audio must play twice before speaking the dismiss button script. Navigation to non-focusable elements of the modal must be restricted on text-to-speech platforms. Screen reader platforms must allow the user to focus the modal title and alert content after the modal becomes dismissible.
+When screen reader or text-to-speech features are enabled, the modal-based emergency alert audio must play twice before speaking the dismiss button script. Navigation to non-focusable elements of the modal must be restricted on text-to-speech platforms. Screen reader platforms must allow the user to focus the modal title and alert content after the modal becomes dismissible.
 
 2.1.6-I
 Platforms, apps, or websites that offer zoom or font scaling must ensure that the modal-based emergency alert can scale appropriately without truncating or losing any critical text information. This ensures that users relying on larger text or zoom can fully access the alert content.

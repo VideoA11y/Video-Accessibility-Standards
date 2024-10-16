@@ -1,2 +1,2 @@
 5.2 Reading Direction
-Languages may be read in different directions (i.e. right-left, left-right, top-bottom, bottom-top). All directional possibilities for supported languages must work properly when enabled.
+Languages may be read in different directions (e.g., left-to-right, right-to-left, top-to-bottom). Platforms, apps, and websites that support these languages must adjust the display of text, elements, navigation, and user flow to accommodate these differences, ensuring proper accommodation for users of different languages.

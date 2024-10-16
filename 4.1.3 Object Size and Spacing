@@ -1,12 +1,12 @@
-4.1.3 Object Size and Spacing
+4.1.4 Object Size and Spacing
 Accessible object size and spacing reduces input errors for users with limited fine motor skills and cognitive load for users of all abilities. Adhering to minimum size and spacing requirements accommodates many, but we suggest offering an adjustable interface for finer control.
 Platforms, apps, and websites that utilize mouse, pointer, touch, or remote interactions must offer large enough targets to accommodate the average touch size of a human finger (10mm). Translating a physical measurement to a virtual, density-independent pixel size requires a deeper understanding of resolution scaling. A 10mm touch target roughly translates to a 50×50 dp/px object size when using a 1x scale with a baseline density of 160 dots per inch.
 
-4.1.3-A
+4.1.4-A
 Interactive objects and buttons should be 10mm or larger to accommodate users with limited fine motor skills. This roughly translates to a 50x50 dp/px object size at 160 dpi. This recommendation goes further than WCAG 2.1 2.5.5, which recommends 44x44, but that requirement barely accommodates the average finger size and does not account for limited fine motor abilities.
 
-4.1.3-B
+4.1.4-B
 When using a target size of 50×50 dp/px at 160 dpi, adjacent interactive elements should have at least 25 dp/px (at 160 dpi) of spacing between them to prevent input errors.
 
-4.1.3-C
+4.1.4-C
 When technically feasible, all platforms, apps, and websites should consider offering user-customizable layouts, scaling, and spacing for interfaces that include many adjacent objects. Interactable grids, lists, and swimlanes are all perfect examples of interfaces that benefit from these considerations.

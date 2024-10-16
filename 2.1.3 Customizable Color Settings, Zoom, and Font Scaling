@@ -17,7 +17,7 @@ Offering zoom and font scaling options does not exempt a platform, app, or websi
 Conversely, zoom is a suggestion, not a requirement. Compliance with minimum font sizes is a good baseline that can be further enhanced with zoom features.
 
 2.1.3-F
-If a platform has user-settings for zoom, font scaling, and contrast settings at a system level, apps or websites must respect those settings. They may not disable any zoom, font scaling, or contrast features present on any platform.
+If a platform has user settings for zoom, font scaling, and contrast at a system level, apps or websites must respect those settings. They may not disable any zoom, font scaling, or contrast features present on any platform.
 
 2.1.3-G
 As with other synchronized user settings, platforms, apps, and websites may not override the system-level default or user-selected zoom, font scaling, or contrast settings unless changed by the user within the interface settings. Apps and websites may not push their settings to the system-level settings at any time.

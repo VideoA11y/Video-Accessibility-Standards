@@ -14,7 +14,7 @@ If a platform lacks native screen reader or TTS support, it is the responsibilit
 Visual elements that convey meaning—such as images, logos, and icons—must include alternative text descriptions to provide context for screen readers or TTS engines. Images must not be used to present long strings of text; what is spoken via TTS should ultimately be visible or conveyed on the screen.
 
 2.2.1-E
-For video platforms, apps, and websites with focusable images (like tiles or poster art) in swimlanes, search results, asset details pages, etc., those images must include additional context for screen readers like the title.
+For video platforms, apps, and websites with focusable images (like tiles or poster art) in swimlanes, search results, asset details pages, etc., images must include additional context for screen readers, such as the title.
 
 2.2.1-F
-When using a TTS engine on connected TV video platforms, only navigable or interactable images should receive focus (e.g., tiles in a swimlane). These images must provide context for the text-to-speech engine to speak on focus including related, visible, and unfocusable text like title, genre, or rating. When images are not navigable (e.g., background art on an asset details page), the interface must provide additional context to the text-to-speech engine when focused on a related object, or button.
+When using a TTS engine on connected TV video platforms, only navigable or interactable images should receive focus (e.g., tiles in a swimlane). These images must provide context for the text-to-speech engine to speak on focus, including related, visible, and unfocusable text, such as title, genre, or rating. When images are not navigable (e.g., background art on an asset details page), the interface must provide additional context to the text-to-speech engine when focused on a related object or button.

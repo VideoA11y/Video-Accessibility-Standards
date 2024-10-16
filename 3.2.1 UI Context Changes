@@ -1,14 +1,14 @@
 3.2.1 UI Context Changes
-If an action within a platform, app, or website will change the context of the user interface, that change must behave as users would expect.
+Context changes must be predictable, clearly indicated, and initiated by the user, rather than automatic or unexpected. This ensures users are aware of shifts in content or navigation to help reduce confusion, particularly for users with cognitive disabilities.
 
 3.2.1-A
-A link must clearly communicate if it will change the context of the user interface.
+Links and buttons must clearly communicate that they will change the user interface context (e.g., if selecting a button navigate to a new screen). This allows users to make informed decisions about their interactions and prevents disorientation. This is supported by WCAG 2.1 3.2.2.
 
 3.2.1-B
-User interface elements must not change based on an interaction without clearly notifying users of the change beforehand.
+Context changes must only occur based on direct user actions. Platforms, apps, and websites should provide settings to enable or disable automatic context changes (e.g., auto-advancing carousel slides).
 
 3.2.1-C
-Changes of context must only be initiated by a direct user request. Changes of context by other methods must have a setting to enable or disable them.
+The user interface must never change context on focus change. This pattern is often used when changing focus menu items on connected television but causes issues for screen reader users as the context change is rarely communicated via text-to-speech. Changing context when the user selects the menu item is the most accessible behavior. However, with proper text-to-speech scripts, the focus pattern can be accommodated.
 
 3.2.1-D
-Modals and dialogs must not force users to change context.
+Modals and dialogs must not force users to change context unexpectedly and must return the user to the previously focused location when dismissed. Users must be able to dismiss or interact with modals at their discretion unless the modal displays emergency information as discussed in 2.1.6.

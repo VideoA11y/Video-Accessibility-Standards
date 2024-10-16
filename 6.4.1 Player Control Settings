@@ -1,8 +1,14 @@
 6.4.1 Player Control Settings
-Customizable player controls offer users a more equitable experience when they can adjust skip duration, fast forward and rewind speeds, and other player control interactions.
+Customizable player controls offer users a more equitable experience when they can pause, rewind, adjust playback speed, skip duration, fast forward and rewind speeds, and other player control interactions.
 
 6.4.1-A
-The user must have the option to set skip speed in the playback at: 5, 10, 15, 20, 25, and 30 seconds.
+Users must be able to pause, rewind, and control playback for all content, including ads. This ensures that users do not miss content due to the platform's preset controls.
 
 6.4.1-B
-Users must be able to customize the speed of the fast forward and rewind options.
+Users should be able to control the playback speed of the content without affecting the quality, pitch, or tone of the audio.
+
+6.4.1-C
+Users should have the option to define the skip speed in the playback settings to 5, 10, 15, 20, 25, and 30 seconds (at minimum).
+
+6.4.1-D
+Users should be able to control the speed of the fast forward and rewind options without having to press and hold a button to increase or decrease speed.

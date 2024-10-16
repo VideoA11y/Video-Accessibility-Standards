@@ -1,8 +1,11 @@
 5.2.1 Reading Direction Changes
-When a platform, app, or website supports languages of multiple reading directions, it must ensure that the directions of individual UI elements are properly displayed.
+When supporting multiple languages with different reading directions, the layout and alignment of text and other meaningful content must adjust accordingly.
 
 5.2.1-A
-Text alignment, images of text, and meaningfully-ordered images must be changed to match the written direction. For example, in right-to-left language support, text alignment and images of text must be shown in right-left direction.
+Text alignment, images of text, and meaningfully-ordered images must follow the correct reading direction. For example, in languages like Arabic or Hebrew, text and images of text must be aligned right-to-left.
 
 5.2.1-B
-Images, numbers, logos, and universal symbols are not affected by changes in written direction.
+Universal symbols, logos, numbers, and images not tied to a specific language must remain unaffected by changes in reading direction. These elements should retain their original orientation to avoid confusion.
+
+5.2.1-C
+Platforms, apps, and websites that support languages with different reading directions, the navigation and user flow of the app should be updated to accommodate the language. For example, a right-to-left language should have a right-aligned menu with the content entry flow from the right.

@@ -1,5 +1,8 @@
 6.2.4 Text-to-Speech and Screen Reader Controls
-All platforms, apps, and websites must allow users to customize the audible presentation of information to meet their needs.
+All platforms, apps, and websites must allow users to customize the screen reader or text-to-speech engine presentation and synthetic voice. Having the option to select more familiar voice settings increases comprehension, comfort, and efficiency for users while also reducing frustration and confusion.
 
 6.2.4-A
-Users must have control over the accent, pitch, speed, verbosity, and volume of spoken information. Having the option to select more familiar voice settings increases comprehension, comfort, and efficiency for users while also reducing frustration and confusion.
+Users must have control over the accent, pitch, speed, verbosity, and volume of spoken information.
+
+6.2.4-B
+All platforms, apps, and websites should also include user-defined controls for relative volume (how loud the playback volume is when text-to-speech is speaking). These settings should offer the ability to not only turn off playback audio, but also require a minimum of “low, medium, and high” options. Ideally, this would offer a variable percentage between 0-100%.

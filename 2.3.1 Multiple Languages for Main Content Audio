@@ -2,7 +2,7 @@
 Offering multiple language tracks for video content supports inclusivity for users from diverse linguistic backgrounds.
 
 2.3.1-A
-All distributed video content must support at least English and Spanish audio tracks in the U.S. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results.
+All distributed video content must support at least English and Spanish audio tracks in the US. International platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results.
 
 2.3.1-B
 On linear platforms, the SAP must continue to provide a Spanish-language audio track. Distributors must work with programmers to develop mechanisms that allow additional languages to pass through the various PID tracks as they become available.
@@ -14,4 +14,4 @@ Streaming platforms must continue to provide multiple languages for the main aud
 Synchronization between audio and video should never exceed a latency of 500 milliseconds. 100 milliseconds is a generous value. Less than 50 milliseconds is ideal. However, most additional language audio tracks are produced by content teams and would require them to ensure the dialogue audio aligns with the video.
 
 2.3.1-E
-Sign language interpretation is certainly suggested but not required. This should not be embedded into your programming, but offered as an extra layer of accessibility that can be turned on and off within settings (similar to picture in picture). Sign language interpretation should always favor accuracy over latency.
+Sign language interpretation is certainly suggested but not required. This should not be embedded into your programming but offered as an extra layer of accessibility that can be turned on and off within settings (similar to picture in picture). Sign language interpretation should always favor accuracy over latency.

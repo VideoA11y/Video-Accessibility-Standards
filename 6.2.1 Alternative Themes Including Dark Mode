@@ -1,5 +1,14 @@
 6.2.1 Alternative Themes Including Dark Mode
-All platforms, apps, and websites must allow users to select alternative color schemes that may improve their ability to see the screen. All-white backgrounds may cause visual strain or even be painful to some users.
+All platforms, apps, and websites must allow users to select alternative color schemes that may improve their ability to see the screen. Meeting color contrast requirements is an excellent first step, but certain color combinations (all-white backgrounds) may cause visual strain or even be painful to some users with light sensitivity.
 
 6.2.1-A
-User interfaces must have inverse color and dark mode presentation options.
+All platforms, apps, and websites must offer alternative themes such as dark mode to reduce visual strain for users with light sensitivity or visual impairments.
+
+6.2.1-B
+When not provided by the platform, apps and websites should consider adding their own interpretation of an “invert colors” theme to their software, similar in concept to the Apple feature of the same name.
+
+6.2.1-C
+When not provided by the platform, apps and websites should consider adding color blind modes to their software with Protanope, Deuteranope, or Tritanope being the most common forms of colorblindness.
+
+6.2.1-D
+All platforms, apps, and websites should consider adding fully customizable color themes for their software, allowing the user to choose patterns that work best for them.

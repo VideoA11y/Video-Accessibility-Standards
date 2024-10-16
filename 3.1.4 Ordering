@@ -1,11 +1,11 @@
 3.1.4 Ordering
-If a platform, app, or website contains ordered elements, the order of those elements must remain the same in all scenarios to avoid user confusion and increased cognitive load.
+Platforms, apps, and websites must maintain a logical and consistent order of elements to avoid user confusion and reduce cognitive load.
 
-3.1.3-A
-The presentation of help options must have consistent order. When multiple help pages are present, their relative order must start with human contact details, then a human contact mechanism, then a self-help option, and then a fully automated contact mechanism.
+3.1.4-A
+Navigation and other elements must maintain a consistent order on every page, ensuring that users always know where to find key controls and links. Consistent navigation helps reduce confusion, as outlined in WCAG 2.1 2.4.3.
 
-3.1.3-B
-Navigation elements must have consistent order.
+3.1.4-B
+The order in which metadata (such as description, genre, rating, etc.) is presented must remain consistent across platforms, apps, and websites, aiding user comprehension and preventing cognitive overload.
 
-3.1.3-C
-Metadata presentation order must be consistent.
+3.1.4-C
+The presentation and ordering of help options must be consistent. When offering multiple help options, the relative order must start with human contact options (e.g., phone numbers, email addresses, live chat), then a self-help option (frequently asked questions), followed by automated help (e.g., chatbots).

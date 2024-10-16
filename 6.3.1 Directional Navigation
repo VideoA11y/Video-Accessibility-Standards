@@ -1,8 +1,8 @@
 6.3.1 Directional Navigation
-Navigation must have a consistent flow to decrease the cognitive load for users and enable integration with various assistive technologies and input methods.
+Navigation should happen in a predictable, consistent manner and work seamlessly with assistive technologies like keyboards or screen readers to reduce cognitive load for users.
 
 6.3.1-A
-Navigation must flow from top-left to bottom-right and start over at top-left when it is finished, without getting stuck. Navigation with only a designated controller or keyboard depends on consistent directional navigation.
+Navigation must flow in a predictable top-left to bottom-right direction to reduce cognitive load and integrate smoothly with assistive technologies like keyboards and screen readers. This aligns with WCAG 2.1 2.4.3, which specifies a logical focus order for navigation.
 
 6.3.1-B
-Users must be provided with two or more ways to locate content. At minimum, this should include menu and search features.
+As discussed in section 5.2, there are certain languages where the flow would be more accommodating by using a top-right to bottom left user flow. When supporting those languages, this navigation pattern should be considered.

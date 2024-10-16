@@ -1,0 +1,11 @@
+6.3.2 Search, Shortcuts, and Keystrokes
+Platforms must support easy search functionality, customizable shortcuts, and keystrokes, allowing users to control all interactions with a single input method. Users must also be able to disable or remap shortcuts for better accessibility.
+
+6.3.2-A
+Users must be provided with at least two ways to locate content, such as menus and search features, ensuring accessibility for users with varied navigation preferences, in line with WCAG 2.1 2.4.5. If an interaction is only accessible via a single method (voice, keyboard, remote, etc.) it is not accessible. All manners of locating content should be fully accessible.
+
+6.3.2-B
+Platforms, apps, and websites must allow users to control all functions using a single form of input, whether it’s a keyboard, mouse, or touch device. Requiring the use of two input methods will prevent users with limited mobility from being able to navigate the interface.
+
+6.3.2-C
+Users must have the ability to customize, disable, or remap shortcuts and keystroke patterns to accommodate limited mobility or dexterity. This ensures compliance with WCAG 2.1 2.1.4.

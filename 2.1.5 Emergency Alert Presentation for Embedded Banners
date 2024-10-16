@@ -2,7 +2,7 @@
 Emergency alerts and their presentation, provided by the Emergency Alert System (EAS) or the local equivalent, need significant improvements for modern video interfaces including linear, streaming, and social platforms. These banner requirements go beyond the FCC regulations in order to provide a more inclusive emergency alert experience for everyone.
 
 2.1.5-A
-All emergency alert banners must support English and Spanish content in the United States. International platforms must also include the local language along with any languages with a minimum of 10% usage based on local census results. Alerts must use the language selected in the platform’s settings.
+All emergency alert banners must support English and Spanish content in the United States. International platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results. Alerts must use the language selected in the platform’s settings.
 
 2.1.5-B
 Platforms, apps, and websites that display emergency alerts via text-scrolling banners must ensure that both the visual and audio content of the alert are played twice before dismissing the banner. Video playback must not stop while the alert is present; it is required to be an overlay per the FCC. During the playback of the alert audio, all program audio must be muted.
@@ -29,7 +29,7 @@ When an emergency alert is playing, access to overlays (menus, settings, etc.) m
 When using a text-scrolling banner for emergency alerts, a single character should take approximately 10 seconds to scroll across the screen. The inclusion of audio playback or the program content type must not affect the scrolling speed.
 
 2.1.5-J
-Emergency alert banners must use a minimum of 64px for 1080p resolutions (2x/4x for 4K/8K, respectively) as defined in section 1.1.2. Banners must render in the 2nd row from the top of the 15 horizontal rows included in the Safe Title Area. If Closed Captioning is enabled and aligned to the top, the alert must render in the 2nd row from the bottom of the 15 horizontal rows included in the Safe Title Area. If the user selected a font size larger than 100% in their Closed Captioning settings, the emergency alert banner and its content must scale as defined in section 1.1.2.
+Emergency alert banners must use a minimum of 64px for 1080p resolutions (2x/4x for 4K/8K respectively) as defined in section 1.1.2. Banners must render in the 2nd row from the top of the 15 horizontal rows included in the Safe Title Area. If Closed Captioning is enabled and aligned to the top, the alert must render in the 2nd row from the bottom of the 15 horizontal rows included in the Safe Title Area. If the user selected a font size larger than 100% in their Closed Captioning settings, the emergency alert banner and its content must scale as defined in section 1.1.2.
 
 2.1.5-K
 The background colors of emergency alert banners must follow FCC regulations and use green for tests, yellow for weather watches, and red for weather warnings, amber alerts, Emergency Action Notifications (EANs), etc.

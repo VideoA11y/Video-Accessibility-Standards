@@ -1,17 +1,17 @@
 2.1.4 Focus, Hover, and Navigation Behaviors
-All platforms, apps, and websites must provide a high-contrast visual indicator to represent the currently-focused or hovered object (e.g., buttons, links, or tiles) when using a remote, keyboard/tab navigation, mouse pointer, or other assistive technology and respect accessible navigation behaviors.
+All platforms, apps, and websites must respect accessible navigation behaviors and provide a high-contrast visual indicator to represent the currently-focused or hovered object (e.g., buttons, links, or tiles) when using a remote, keyboard/tab navigation, mouse pointer, or other assistive technology.
 
 2.1.4-A
 On video platforms using remote controls, a high-contrast (minimum 4.5:1) focus border must surround the currently focused object. This helps users with low vision easily identify which element is being selected. This adheres to WCAG 2.1 2.4.7, which emphasizes visible focus indicators.
 
 2.1.4-B
-For platforms, apps, and websites that use mouse, keyboard, or tab-based navigation, a high-contrast focus border must be applied to all interactive objects, such as buttons, tiles, links. 
+For platforms, apps, and websites that use mouse, keyboard, or tab-based navigation, a high-contrast focus border must be applied to all interactive objects, such as buttons, tiles, and links. 
 
 2.1.4-C
 If a platform does not provide default high-contrast visual indicators, an option to enable or disable them must be available in the accessibility settings.
 
 2.1.4-D
-Focusing or hovering over an object must not change the visual context of the interface or placing the user’s focus elsewhere. Specifically, a selection interaction must precede all context changes. This aligns with WCAG 2.1 3.2.2 guidelines.
+Focusing or hovering over an object must not change the visual context of the interface or place the user’s focus elsewhere. Specifically, a selection interaction must precede all context changes. This aligns with WCAG 2.1 3.2.2 guidelines.
 
 2.1.4-E
 Selection interactions must not move focus unexpectedly and should open a new screen, menu, modal, or other logical path in the user flow. It should also be clear what the selection will do based on the context of the interface. Unexpected focus changes can confuse users, especially on larger screens.

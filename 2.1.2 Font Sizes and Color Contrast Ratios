@@ -2,7 +2,7 @@
 All visual content intended to convey meaning – images, text, shapes, etc. – must be designed with readability in mind and meet the minimum contrast ratios and font size requirements to accommodate users with low vision, color blindness, or other visual considerations.
 
 2.1.2-A
-Pixel density is a major consideration for video entertainment platforms and apps. At the time of publication, most content design considerations start with 1080p FHD (Full High Definition). All font sizes in these guidelines are specifically written for 1080p FHD. 4K UHD (Ultra High Definition) and 8K UHD platforms and apps must scale their font sizes by 2x, or 4x respectively, for all size requirements in these guidelines.
+Pixel density is a major consideration for video entertainment platforms and apps. At the time of publication, most content design considerations start with 1080p FHD (Full High Definition). All font sizes in these guidelines are specifically written for 1080p FHD. 4K UHD (Ultra High Definition) and 8K UHD platforms and apps must scale their font sizes by 2x or 4x respectively for all size requirements in these guidelines.
 
 2.1.2-B
 For video platforms and apps, all visual elements must use a minimum 32pt font for 1080p FHD devices. This ensures that text is legible from a typical viewing distance (10 feet).
@@ -26,4 +26,4 @@ Smaller text (less than 24pt) on mobile devices, tablets, and desktop computers 
 All images, logos, and visual elements that convey meaning must maintain a contrast ratio of 4.5:1 between foreground and background to be perceivable by users with visual impairments.
 
 2.1.2-I
-Purely decorative images or elements that do not convey essential information are exempt from contrast ratio requirements unless used as a background for content like text or logos.
+Purely decorative images or elements that do not convey essential information are exempt from contrast ratio requirements unless used as a background for content, like text or logos.

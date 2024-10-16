@@ -1,11 +1,11 @@
 4.2.2 Text Input and Form Entry
-If a platform, app, or website includes a user interface that requires text input or form entry, accommodations must be made to prevent these tasks from becoming repetitive.
+Platforms, apps, and websites must provide alternative form entry methods, such as keyboard entry through desktop and mobile apps, auto-completion, and the ability to save form content. These accommodations help users with motor disabilities complete forms more efficiently, minimizing frustration and effort.
 
 4.2.2-A
-All 10-foot platforms, apps, and websites that offer manual keyboard entry via a physical remote for user interfaces like account authentication, search, etc. must allow keyboard entry from a mobile app.
+All connected TV platforms, apps, and websites that require the completion of complex forms such as payment information and address entry must allow completion of these forms via a desktop computer or mobile device to simplify form entry without requiring the use of a TV remote.
 
 4.2.2-B
-When a platform, app, or website requires more complex form entry, like address or credit card input, the user flow must include options to copy or save form content to eliminate repetitive form interactions.
+Users must be able to copy, paste, and save complex form content to avoid repetitive inputs, even if the form is not complete.
 
 4.2.2-C
-All platforms, apps, and websites that require form input must offer autocompletion controls.
+Platforms, apps, and websites must not prevent password apps like 1Password, LastPass, etc. from generating, copying, or pasting passwords and other account information into or from the form to ensure efficient completion of complex forms.

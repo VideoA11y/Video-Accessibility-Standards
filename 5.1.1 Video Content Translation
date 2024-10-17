@@ -5,7 +5,7 @@ Users must be able to access video content in any supported language. Closed cap
 Closed captions must be available in all supported languages, providing text alternatives for people who are deaf and don’t read English. This aligns with WCAG 2.1 1.2.2, which requires captions for prerecorded content. Section 1.1.4 provides more information.
 
 5.1.1-B
-Audio descriptions must be available in all supported languages to ensure accessibility for blind or visually impaired users who don’t speak English. This aligns with WCAG 2.1 1.2.5,which requires audio description for prerecorded content. Section 1.1.4 provides more information. Section 2.3.2 provides more information.
+Audio descriptions must be available in all supported languages to ensure accessibility for blind or visually impaired users who don’t speak English. This aligns with WCAG 2.1 1.2.5, which requires audio description for prerecorded content. Section 1.1.4 provides more information. Section 2.3.2 provides more information.
 
 5.1.1-C
 Secondary Audio Programming (SAP) must be offered in all supported languages, allowing users to hear the video content in their native language. This applies to linear and streaming video content. Section 2.3 provides more information.

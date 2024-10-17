@@ -2,4 +2,4 @@
 Screen readers and text-to-speech engines must support translated strings for all supported languages to ensure accessible interaction for visually impaired users. English and Spanish are required in the US, but international platforms must also include the local language, along with any languages with a minimum of 10% usage, based on local census results.
 
 5.1.3-A
-Screen readers and text-to-speech engines must pronounce user interface content in the correct language with native synthetic voices, ensuring proper accessibility for non-native speakers.
+Screen readers and text-to-speech engines must pronounce user interface content in the correct language with native synthetic voices, ensuring proper accessibility for non-English speakers.
